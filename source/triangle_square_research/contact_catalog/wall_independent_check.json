@@ -1,0 +1,120 @@
+{
+  "passed": true,
+  "wall_subsets_checked": 4096,
+  "independent_angle_grid_degrees": 15,
+  "wall_type_count": 25,
+  "symmetry_representative_count": 334,
+  "all_wall_masks_and_representatives_match": true,
+  "cpu_numerical_fallback": false,
+  "elapsed_seconds": 1.8883059588260949,
+  "no_pair_contact_stratum_certificate": {
+    "integer_wall_derivatives_checked": true,
+    "centroid_velocity_times_two": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        -1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "square_side_velocity": -1,
+    "domain": "s>1 and all three triangle pairs have strict positive separation",
+    "consequence": "Such a packing is not locally optimal: shrink the square slightly while moving individual triangles to preserve their active walls; strict pair gaps remain positive by continuity.",
+    "scope": "Applies to actual no-contact strata, not to closures or contact-requirement prefixes."
+  },
+  "global_optimality_proved": false
+}

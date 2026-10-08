@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "interval_cases_checked": 12000,
+  "operations": [
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "squaring",
+    "rational rotation enclosures"
+  ],
+  "arithmetic": "signed GPU int64; dyadic endpoints Q=2^24; explicit outward floor/ceiling",
+  "independent_engine": "PyTorch MPS int64",
+  "radical_enclosures_checked": true,
+  "cpu_numerical_fallback": false,
+  "constants": [
+    29058990,
+    29058991,
+    41095618,
+    41095619,
+    19121890,
+    24801758,
+    24801759,
+    24803399,
+    24803401,
+    0
+  ]
+}

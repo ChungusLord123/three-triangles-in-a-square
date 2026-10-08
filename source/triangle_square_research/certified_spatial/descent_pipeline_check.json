@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "genuine_singular_full_profile_retained": true,
+  "prefix_descent_reduction_removed": 1,
+  "saved_witnesses_replayed": true,
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

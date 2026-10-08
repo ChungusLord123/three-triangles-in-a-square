@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "feasible_root_boxes_preserved": 10,
+  "includes_singular_optimum": true,
+  "includes_nonzero_corner_rotations": true,
+  "primary_and_reference_preserve_all_roots": true,
+  "known_family_below_1_4783_excluded_without_SOS_shortcut": true,
+  "primary_exclusion_reason": 4,
+  "reference_exclusion_reason": 4,
+  "root_construction": "Exact dyadic interval enclosures using radical bounds and rational half-angle formulas",
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

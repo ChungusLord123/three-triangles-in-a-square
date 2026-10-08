@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "legacy_claims_checked": 753912,
+  "legacy_physical_exclusions": 257233,
+  "legacy_successful_contractions": 496679,
+  "legacy_unverified_claims": 0,
+  "final_precision30_claims_checked": 2512,
+  "final_unverified_claims": 0,
+  "cpu_numerical_fallback": false,
+  "elapsed_seconds": 0.7433961667120457
+}

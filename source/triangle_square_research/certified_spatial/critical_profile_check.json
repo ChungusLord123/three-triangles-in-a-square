@@ -1,0 +1,12 @@
+{
+  "input_angular_survivors": 2499977,
+  "critical_candidates": 1650801,
+  "excluded_noncritical_proper_profiles": 849176,
+  "independent_MPS_check_passed": true,
+  "criterion": "At least one contact-connected component touches opposite square walls.",
+  "domain": "Proper full active contact profiles of a global optimum with s>1.",
+  "justification": "If every component touches at most two adjacent walls, translate each component at velocity +/-1/2 in the touched coordinate directions while s decreases at velocity -1. Internal contacts are preserved; strict intercomponent gaps and untapped-wall clearances remain positive for a sufficiently small step.",
+  "scope_warning": "A skipped contact-requirement prefix may still contain a feasible packing with extra contacts. Coverage is justified by the full active profile of an attained optimum, which is represented by the catalogue.",
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

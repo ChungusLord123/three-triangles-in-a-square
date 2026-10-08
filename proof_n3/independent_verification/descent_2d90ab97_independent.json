@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "rows": 216482,
+  "supplied_motion_claims": 205080,
+  "remaining_regions": 11402,
+  "all_producer_removals_independently_proved": true,
+  "elapsed_seconds": 3.1451960001140833,
+  "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/descent_2d90ab97",
+  "checkpoint_sha256": "fc1b321dc45b981af5edddd9ecb0e140316beccba2619cab9e03240fe49d02a8",
+  "verifier_sha256": "27157de8c34f05b6fda9907e8de1cd0911a10f5a3c1a10de46e1edf61be7c9e5",
+  "motion_verifier_sha256": "2aac138ab9c69e7b3df93f54f17b6b2e1d4bcb65f54d6f8c3dbe3e3ebc37957e",
+  "adapter_sha256": "5255561205a359a05763cf4f732793354b3fd312fbcb4f936bf26627b368232f",
+  "cpu_numerical_fallback": false
+}

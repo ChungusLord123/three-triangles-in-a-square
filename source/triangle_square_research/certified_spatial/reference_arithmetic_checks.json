@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "rotation_interval_cases": 8000,
+  "primary_enclosures_contain_reference": true,
+  "reference_method": "Exact rational endpoint division via 128-bit product comparisons on Metal",
+  "independent_MPS_base24_limb_checks": true,
+  "cpu_numerical_fallback": false
+}

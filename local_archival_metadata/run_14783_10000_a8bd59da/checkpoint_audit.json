@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "saved_splits_checked": 45208275,
+  "all_split_children_cover_parent": true,
+  "root_ordinal_ranges_contiguous": true,
+  "row_conservation_passed": true,
+  "frontier_files_exist": true,
+  "frontier_boxes": 2353402,
+  "frontier_profiles": 437,
+  "frontier_min_depth": 54,
+  "frontier_max_depth": 56,
+  "shared_geometric_model_independently_verified": false,
+  "check_scope": "File and bisection audit; exclusions were replayed online with independent arithmetic but the same geometric constraints.",
+  "input_data_sha256": {
+    "certified_spatial/spatial_candidates.npy": "f17ee743af8535e82f272c486ae707d0a546b7698701134851e0accf444eaed4",
+    "contact_catalog/wall_masks.npy": "6b31842f31feb26aa89c3a48e56944c9e669efecebe26465af03d01538b1bc8e",
+    "contact_catalog/wall_triplets.npy": "5b9f775207cdc7f6ec8c59afcb66e3304e0e28d8e7210486d9b48c685902d7ed",
+    "contact_catalog/wall_angles.npy": "f52083d450341be32df01b82f16e3702fdd604d5344181c4218bf103d507db9d"
+  },
+  "primary_model_sha256": "2527e2ee5afeec688d7d4cf4169138b0df121125e64f69e992d97749f44a24b6",
+  "cpu_numerical_fallback": false,
+  "numerical_engine": "PyTorch MPS int32",
+  "checker_backend_note": "Avoids MPS gather, which rounded large int32 endpoints on this host; exact pointwise where and bit shifts are used instead.",
+  "elapsed_seconds": 15.518823416903615,
+  "global_optimality_proved": false
+}

@@ -1,0 +1,824 @@
+{
+  "angular_survivors": 2499977,
+  "attempted": 2499977,
+  "all_survivors_attempted": true,
+  "iterations_per_attempt": 192,
+  "near_contact_feasible_fits": 248,
+  "best_side": 1.4990779161453247,
+  "best_poses": [
+    [
+      -0.251352995634079,
+      -0.45756691694259644,
+      4.195269584655762
+    ],
+    [
+      0.4607998728752136,
+      -0.11660562455654144,
+      5.75955867767334
+    ],
+    [
+      -0.11655816435813904,
+      0.46078816056251526,
+      1.0471951961517334
+    ]
+  ],
+  "best_requirement_id": 11802713,
+  "best_contact_residual": 3.260374069213867e-05,
+  "reference_side": 1.4783978462219238,
+  "potential_record": false,
+  "elapsed_seconds": 103.00516891712323,
+  "budget_seconds": 180.0,
+  "gpu": "Apple M5 Pro",
+  "cpu_numerical_fallback": false,
+  "rules": {
+    "starts_per_requirement": 1,
+    "angle_departure_radians": 0.5235987756,
+    "max_square_side": "reference+0.03"
+  },
+  "certified_spatial_roots": 0,
+  "global_optimality_proved": false,
+  "candidates": [
+    {
+      "requirement_id": 426952,
+      "square_side": 1.505318284034729,
+      "poses": [
+        [
+          0.2526410222053528,
+          0.46386754512786865,
+          1.0473079681396484
+        ],
+        [
+          -0.4558643102645874,
+          0.1043139100074768,
+          2.634182929992676
+        ],
+        [
+          0.12160667032003403,
+          -0.46380943059921265,
+          4.189012050628662
+        ]
+      ],
+      "contact_residual": 0.00015014410018920898,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 7.522106898250058e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 861671,
+      "square_side": 1.505452275276184,
+      "poses": [
+        [
+          0.29697442054748535,
+          0.37249326705932617,
+          1.2007421255111694
+        ],
+        [
+          -0.4454098045825958,
+          0.09022537618875504,
+          2.655306577682495
+        ],
+        [
+          0.13418084383010864,
+          -0.4637129008769989,
+          4.18821382522583
+        ]
+      ],
+      "contact_residual": 0.00045424699783325195,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 0.00013247132301330566,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 901024,
+      "square_side": 1.5043540000915527,
+      "poses": [
+        [
+          0.4511072039604187,
+          0.12417063117027283,
+          1.5865134000778198
+        ],
+        [
+          -0.45563971996307373,
+          0.25504058599472046,
+          2.6336898803710938
+        ],
+        [
+          -0.1258186548948288,
+          -0.4630967974662781,
+          4.189090728759766
+        ]
+      ],
+      "contact_residual": 0.000843346118927002,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 0.0005925148725509644,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 1298145,
+      "square_side": 1.5071433782577515,
+      "poses": [
+        [
+          -0.13883262872695923,
+          0.43354183435440063,
+          1.0925358533859253
+        ],
+        [
+          -0.2663784623146057,
+          -0.44346529245376587,
+          4.231945514678955
+        ],
+        [
+          0.46473103761672974,
+          -0.14306224882602692,
+          5.759817600250244
+        ]
+      ],
+      "contact_residual": 0.00018537044525146484,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 3.209710484952666e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 1824072,
+      "square_side": 1.502487063407898,
+      "poses": [
+        [
+          0.2649407386779785,
+          0.39285996556282043,
+          1.1920539140701294
+        ],
+        [
+          -0.4621749222278595,
+          0.11601515859365463,
+          2.6174447536468506
+        ],
+        [
+          0.11483518034219742,
+          -0.461944580078125,
+          4.1876420974731445
+        ]
+      ],
+      "contact_residual": 0.000996410846710205,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 0.0004260279529262334,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 1925924,
+      "square_side": 1.5078415870666504,
+      "poses": [
+        [
+          0.12317103892564774,
+          0.4646475315093994,
+          5.236428737640381
+        ],
+        [
+          -0.46510982513427734,
+          -0.0971624031662941,
+          2.617995262145996
+        ],
+        [
+          0.25359514355659485,
+          -0.4650413393974304,
+          4.189098834991455
+        ]
+      ],
+      "contact_residual": 0.00023472309112548828,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 0.00015017390251159668,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 3292793,
+      "square_side": 1.5048104524612427,
+      "poses": [
+        [
+          -0.44313400983810425,
+          0.09900393337011337,
+          2.659597158432007
+        ],
+        [
+          0.3157362937927246,
+          0.3539067208766937,
+          1.2368383407592773
+        ],
+        [
+          0.14471010863780975,
+          -0.45423460006713867,
+          4.207784175872803
+        ]
+      ],
+      "contact_residual": 2.7880072593688965e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.6881694793701172e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 3341262,
+      "square_side": 1.5024958848953247,
+      "poses": [
+        [
+          -0.46105560660362244,
+          0.1152651309967041,
+          2.619292736053467
+        ],
+        [
+          0.46204236149787903,
+          0.2502385973930359,
+          1.571757435798645
+        ],
+        [
+          0.11607296764850616,
+          -0.46142756938934326,
+          -0.0008217321010306478
+        ]
+      ],
+      "contact_residual": 0.0005283951759338379,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 0.00017033517360687256,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 3576161,
+      "square_side": 1.5027167797088623,
+      "poses": [
+        [
+          -0.4624822437763214,
+          0.11525476723909378,
+          2.617694616317749
+        ],
+        [
+          0.4624483585357666,
+          0.2487679123878479,
+          1.5711661577224731
+        ],
+        [
+          0.11473088711500168,
+          -0.4624136686325073,
+          4.188667297363281
+        ]
+      ],
+      "contact_residual": 0.00022488832473754883,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 9.284541010856628e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 3761555,
+      "square_side": 1.5005686283111572,
+      "poses": [
+        [
+          -0.46064138412475586,
+          0.11862903833389282,
+          2.619821071624756
+        ],
+        [
+          0.12121403962373734,
+          -0.4576820731163025,
+          4.196561813354492
+        ],
+        [
+          0.2529885768890381,
+          0.45683595538139343,
+          1.0566669702529907
+        ]
+      ],
+      "contact_residual": 3.316998481750488e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 3.0159950256347656e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 3782077,
+      "square_side": 1.5064936876296997,
+      "poses": [
+        [
+          -0.4580882787704468,
+          0.12124104797840118,
+          2.6307127475738525
+        ],
+        [
+          0.1102241724729538,
+          -0.46444931626319885,
+          0.00014476830256171525
+        ],
+        [
+          0.2597500681877136,
+          0.453210711479187,
+          1.0697557926177979
+        ]
+      ],
+      "contact_residual": 6.74128532409668e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.8997661502216943e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 3952034,
+      "square_side": 1.5010594129562378,
+      "poses": [
+        [
+          -0.4615590572357178,
+          0.24977299571037292,
+          4.712070465087891
+        ],
+        [
+          -0.11529345065355301,
+          -0.4613659679889679,
+          4.189547538757324
+        ],
+        [
+          0.4617011845111847,
+          0.11581218987703323,
+          5.759379863739014
+        ]
+      ],
+      "contact_residual": 0.00015801191329956055,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.951920214400161e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 4153557,
+      "square_side": 1.5020924806594849,
+      "poses": [
+        [
+          -0.46231064200401306,
+          0.12027913331985474,
+          2.618009328842163
+        ],
+        [
+          0.11707209050655365,
+          -0.46200045943260193,
+          -0.0006413703667931259
+        ],
+        [
+          0.2509887218475342,
+          0.46230271458625793,
+          1.04717218875885
+        ]
+      ],
+      "contact_residual": 2.4080276489257812e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 6.179511547088623e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 4204199,
+      "square_side": 1.5002564191818237,
+      "poses": [
+        [
+          -0.46137696504592896,
+          0.11595109850168228,
+          2.618030071258545
+        ],
+        [
+          0.11603745073080063,
+          -0.4613769054412842,
+          -4.0758248360361904e-05
+        ],
+        [
+          0.2500653564929962,
+          0.4614001512527466,
+          1.0471916198730469
+        ]
+      ],
+      "contact_residual": 2.9385089874267578e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 7.524714601458982e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 5705511,
+      "square_side": 1.5004838705062866,
+      "poses": [
+        [
+          -0.455032080411911,
+          -0.12340141087770462,
+          2.630990743637085
+        ],
+        [
+          0.45508867502212524,
+          -0.25395652651786804,
+          5.772483825683594
+        ],
+        [
+          0.12224183231592178,
+          0.46150678396224976,
+          1.047202229499817
+        ]
+      ],
+      "contact_residual": 2.5451183319091797e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 3.526732689351775e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 5716944,
+      "square_side": 1.502442717552185,
+      "poses": [
+        [
+          -0.4596708118915558,
+          -0.12164634466171265,
+          2.623638868331909
+        ],
+        [
+          0.459668904542923,
+          -0.2528104782104492,
+          5.765236854553223
+        ],
+        [
+          0.11153874546289444,
+          0.4624871611595154,
+          1.0471980571746826
+        ]
+      ],
+      "contact_residual": 2.6047229766845703e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.627447247505188e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 7818581,
+      "square_side": 1.5004769563674927,
+      "poses": [
+        [
+          -0.46149933338165283,
+          0.115878164768219,
+          4.712385177612305
+        ],
+        [
+          0.46150490641593933,
+          0.24967950582504272,
+          5.7595696449279785
+        ],
+        [
+          0.11586299538612366,
+          -0.46150150895118713,
+          4.188791275024414
+        ]
+      ],
+      "contact_residual": 3.254413604736328e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.929195761680603e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 8257130,
+      "square_side": 1.5035008192062378,
+      "poses": [
+        [
+          -0.45773065090179443,
+          -0.12046326696872711,
+          2.6286158561706543
+        ],
+        [
+          0.25169649720191956,
+          -0.46300432085990906,
+          4.188799858093262
+        ],
+        [
+          0.11961618065834045,
+          0.4630119502544403,
+          1.0472197532653809
+        ]
+      ],
+      "contact_residual": 3.74913215637207e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.9399991035461426e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 8580892,
+      "square_side": 1.5070714950561523,
+      "poses": [
+        [
+          -0.46479010581970215,
+          -0.12348265200853348,
+          2.6180176734924316
+        ],
+        [
+          0.46480387449264526,
+          -0.25347402691841125,
+          5.75958251953125
+        ],
+        [
+          0.0937928631901741,
+          0.46480900049209595,
+          1.0471943616867065
+        ]
+      ],
+      "contact_residual": 2.8252601623535156e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.6285648345947266e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 8590697,
+      "square_side": 1.500522494316101,
+      "poses": [
+        [
+          -0.4613729417324066,
+          -0.1158965453505516,
+          4.712316036224365
+        ],
+        [
+          0.4614482820034027,
+          -0.2500743269920349,
+          5.759410858154297
+        ],
+        [
+          0.11610002815723419,
+          0.46146735548973083,
+          1.0470917224884033
+        ]
+      ],
+      "contact_residual": 0.00014406442642211914,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 8.123368752421811e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 8927264,
+      "square_side": 1.5013900995254517,
+      "poses": [
+        [
+          -0.46176666021347046,
+          0.11579383909702301,
+          2.6177496910095215
+        ],
+        [
+          0.11602610349655151,
+          -0.46177244186401367,
+          4.18918514251709
+        ],
+        [
+          0.24943311512470245,
+          0.46184879541397095,
+          1.0471543073654175
+        ]
+      ],
+      "contact_residual": 0.00030046701431274414,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 6.468594074249268e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 11802713,
+      "square_side": 1.4990779161453247,
+      "poses": [
+        [
+          -0.251352995634079,
+          -0.45756691694259644,
+          4.195269584655762
+        ],
+        [
+          0.4607998728752136,
+          -0.11660562455654144,
+          5.75955867767334
+        ],
+        [
+          -0.11655816435813904,
+          0.46078816056251526,
+          1.0471951961517334
+        ]
+      ],
+      "contact_residual": 3.260374069213867e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.658367156982422e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 14327963,
+      "square_side": 1.500656247138977,
+      "poses": [
+        [
+          -0.4615952670574188,
+          0.2494850605726242,
+          2.6179842948913574
+        ],
+        [
+          0.46159830689430237,
+          0.11578375846147537,
+          5.759586811065674
+        ],
+        [
+          -0.1157703548669815,
+          -0.46159350872039795,
+          4.1887712478637695
+        ]
+      ],
+      "contact_residual": 3.504753112792969e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.6971101760864258e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 14638742,
+      "square_side": 1.5023630857467651,
+      "poses": [
+        [
+          -0.4624512195587158,
+          -0.12088260054588318,
+          2.617997646331787
+        ],
+        [
+          0.25113245844841003,
+          -0.46243560314178467,
+          4.18878698348999
+        ],
+        [
+          0.11838634312152863,
+          0.46244099736213684,
+          1.0472241640090942
+        ]
+      ],
+      "contact_residual": 4.1365623474121094e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 3.699958324432373e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 5.960464477539063e-08,
+        "cpu_numerical_fallback": false
+      }
+    },
+    {
+      "requirement_id": 14962134,
+      "square_side": 1.500153660774231,
+      "poses": [
+        [
+          -0.4613417088985443,
+          -0.11602775752544403,
+          2.6179840564727783
+        ],
+        [
+          0.4613449275493622,
+          -0.2500216066837311,
+          5.7596001625061035
+        ],
+        [
+          0.1160241886973381,
+          0.46133700013160706,
+          1.0471973419189453
+        ]
+      ],
+      "contact_residual": 2.8133392333984375e-05,
+      "status": "approximate contact fit; not certified root",
+      "independent_check": {
+        "passed": true,
+        "engine": "PyTorch MPS",
+        "min_pair_separation": 2.5223942429875024e-05,
+        "min_square_clearance": 5.0008296966552734e-05,
+        "max_unit_edge_error": 1.1920928955078125e-07,
+        "cpu_numerical_fallback": false
+      }
+    }
+  ],
+  "interpretation": "Bounded numerical fits only. Every unsuccessful or approximate fit remains unresolved for global certification. Candidate physical feasibility requires independent checking.",
+  "independent_layout_check": {
+    "all_passed": true,
+    "layouts_checked": 25,
+    "engine": "PyTorch MPS",
+    "scope": "Physical feasibility only; not contact-root certification"
+  }
+}

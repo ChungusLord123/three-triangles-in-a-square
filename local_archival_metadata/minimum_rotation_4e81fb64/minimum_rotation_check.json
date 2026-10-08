@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "parent_checkpoint": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/compact_f2b645a0/checkpoint.json",
+  "parent_checkpoint_sha256": "3318dbaca231f22eecd0fe3af67ebb9c0022959d0b1d25368af4771faf7e5e73",
+  "input_frontier_sha256": "1505d564aac5dbdd046299d0795587b4992e2585fb55836dbe283f2b1e1c435b",
+  "classification_sha256": "3b004e55dafcf4e66513ed8a53595d7660b84500640bd17bb3ee28af08d48c73",
+  "output_frontier_sha256": "7ab495978bfad8d5d1a65e591af39549c1ce93b2c6484e62eb2bff84afd95429",
+  "input_rows": 379964,
+  "minimum_regions_removed": 254027,
+  "remaining_rows": 125937,
+  "remaining_profiles": 26,
+  "independent_reference_all_rejections_passed": true,
+  "known_singular_family_retained": true,
+  "justification": "Certified rigid-rotation descent test for full optimum profiles.\n\nFor a component spanning left/right, the right derivative of its width is\nmax(y_left)-min(y_right); its left derivative is min(y_left)-max(y_right).\nA width minimum with strict height slack needs positive right and negative\nleft derivatives. A zero derivative still permits descent: every active\nprojection difference has second derivative -side<0. The vertical analogue\nuses x_top-x_bottom. If both dimensions bind, a direction decreasing both\nrules out a minimum. Connected components are rotated rigidly; untapped-wall\nand intercomponent clearances are strict in a FULL active profile. Prefixes\nwith extra contacts are represented by other profiles, not declared infeasible.\n",
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false,
+  "primary_source_sha256": "741ca8e6028a2a35c8f73da0670c26e4d6d2fe113b26e6eefa0077655a226f2c",
+  "reference_source_sha256": "f60a5319a85b3d5ad87cd62e5c38b9a5be715f0ce27d06b1b87c172f15c990b6",
+  "input_file_sha256": {
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/wall_masks.npy": "6b31842f31feb26aa89c3a48e56944c9e669efecebe26465af03d01538b1bc8e",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/wall_triplets.npy": "5b9f775207cdc7f6ec8c59afcb66e3304e0e28d8e7210486d9b48c685902d7ed"
+  },
+  "controller_sha256": "d0dd17c0e1da51b78f1d2ce43d5769b53215b9ded3a67f56f50fb494002fb9e1"
+}

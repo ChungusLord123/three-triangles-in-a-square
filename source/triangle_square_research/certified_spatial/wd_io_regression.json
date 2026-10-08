@@ -1,0 +1,8 @@
+{
+  "direct_external_MLX_load_reproduced_timeout": true,
+  "RAM_staged_GPU_interval_check_passed": true,
+  "rows": 9504938,
+  "columns": 23,
+  "elapsed_seconds": 0.2123181247152388,
+  "CPU_work": "File decoding and byte copies only; interval comparison ran on GPU."
+}

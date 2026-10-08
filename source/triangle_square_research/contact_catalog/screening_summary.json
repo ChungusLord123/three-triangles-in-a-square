@@ -1,0 +1,950 @@
+{
+  "wall_triple_representatives": 334,
+  "contact_requirements_in_representative_product": 16918102,
+  "processed": 16918102,
+  "complete_angular_screen": true,
+  "surviving_angular_cases": 2499977,
+  "reason_bit_histogram": [
+    2499977,
+    3612,
+    855091,
+    1298,
+    558889,
+    0,
+    576368,
+    0,
+    9092818,
+    5466,
+    865008,
+    9018,
+    527740,
+    5014,
+    1888103,
+    29700
+  ],
+  "reason_bits": {
+    "1": "two vertices of one unit triangle identified",
+    "2": "opposite walls forced within one unit triangle",
+    "4": "two triangles forced to share a square corner",
+    "8": "necessary continuous angular system infeasible"
+  },
+  "elapsed_seconds": 0.18279774999246,
+  "budget_seconds": 180.0,
+  "global_optimality_proved": false,
+  "spatial_roots_certified": 0,
+  "interpretation": "Exact discrete/angular exclusions only. Angular survivors need positional equation solving and complete root/critical-family certification.",
+  "parts": [
+    {
+      "first": 0,
+      "count": 131072,
+      "survivors": 109262,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000000000.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000000000.npy"
+    },
+    {
+      "first": 131072,
+      "count": 131072,
+      "survivors": 103035,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000131072.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000131072.npy"
+    },
+    {
+      "first": 262144,
+      "count": 131072,
+      "survivors": 95174,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000262144.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000262144.npy"
+    },
+    {
+      "first": 393216,
+      "count": 131072,
+      "survivors": 71322,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000393216.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000393216.npy"
+    },
+    {
+      "first": 524288,
+      "count": 131072,
+      "survivors": 68519,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000524288.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000524288.npy"
+    },
+    {
+      "first": 655360,
+      "count": 131072,
+      "survivors": 62114,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000655360.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000655360.npy"
+    },
+    {
+      "first": 786432,
+      "count": 131072,
+      "survivors": 54930,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000786432.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000786432.npy"
+    },
+    {
+      "first": 917504,
+      "count": 131072,
+      "survivors": 43128,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0000917504.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0000917504.npy"
+    },
+    {
+      "first": 1048576,
+      "count": 131072,
+      "survivors": 32322,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001048576.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001048576.npy"
+    },
+    {
+      "first": 1179648,
+      "count": 131072,
+      "survivors": 32754,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001179648.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001179648.npy"
+    },
+    {
+      "first": 1310720,
+      "count": 131072,
+      "survivors": 43331,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001310720.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001310720.npy"
+    },
+    {
+      "first": 1441792,
+      "count": 131072,
+      "survivors": 33764,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001441792.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001441792.npy"
+    },
+    {
+      "first": 1572864,
+      "count": 131072,
+      "survivors": 32568,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001572864.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001572864.npy"
+    },
+    {
+      "first": 1703936,
+      "count": 131072,
+      "survivors": 31772,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001703936.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001703936.npy"
+    },
+    {
+      "first": 1835008,
+      "count": 131072,
+      "survivors": 14226,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001835008.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001835008.npy"
+    },
+    {
+      "first": 1966080,
+      "count": 131072,
+      "survivors": 47065,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0001966080.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0001966080.npy"
+    },
+    {
+      "first": 2097152,
+      "count": 131072,
+      "survivors": 50257,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0002097152.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0002097152.npy"
+    },
+    {
+      "first": 2228224,
+      "count": 131072,
+      "survivors": 35818,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0002228224.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0002228224.npy"
+    },
+    {
+      "first": 2359296,
+      "count": 131072,
+      "survivors": 16977,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0002359296.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0002359296.npy"
+    },
+    {
+      "first": 2490368,
+      "count": 131072,
+      "survivors": 38276,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0002490368.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0002490368.npy"
+    },
+    {
+      "first": 2621440,
+      "count": 131072,
+      "survivors": 53895,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0002621440.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0002621440.npy"
+    },
+    {
+      "first": 2752512,
+      "count": 131072,
+      "survivors": 35509,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0002752512.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0002752512.npy"
+    },
+    {
+      "first": 2883584,
+      "count": 131072,
+      "survivors": 39022,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0002883584.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0002883584.npy"
+    },
+    {
+      "first": 3014656,
+      "count": 131072,
+      "survivors": 36278,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003014656.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003014656.npy"
+    },
+    {
+      "first": 3145728,
+      "count": 131072,
+      "survivors": 20122,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003145728.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003145728.npy"
+    },
+    {
+      "first": 3276800,
+      "count": 131072,
+      "survivors": 38529,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003276800.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003276800.npy"
+    },
+    {
+      "first": 3407872,
+      "count": 131072,
+      "survivors": 37788,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003407872.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003407872.npy"
+    },
+    {
+      "first": 3538944,
+      "count": 131072,
+      "survivors": 22281,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003538944.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003538944.npy"
+    },
+    {
+      "first": 3670016,
+      "count": 131072,
+      "survivors": 33228,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003670016.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003670016.npy"
+    },
+    {
+      "first": 3801088,
+      "count": 131072,
+      "survivors": 31521,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003801088.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003801088.npy"
+    },
+    {
+      "first": 3932160,
+      "count": 131072,
+      "survivors": 25589,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0003932160.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0003932160.npy"
+    },
+    {
+      "first": 4063232,
+      "count": 131072,
+      "survivors": 35112,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004063232.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004063232.npy"
+    },
+    {
+      "first": 4194304,
+      "count": 131072,
+      "survivors": 23218,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004194304.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004194304.npy"
+    },
+    {
+      "first": 4325376,
+      "count": 131072,
+      "survivors": 16002,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004325376.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004325376.npy"
+    },
+    {
+      "first": 4456448,
+      "count": 131072,
+      "survivors": 16897,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004456448.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004456448.npy"
+    },
+    {
+      "first": 4587520,
+      "count": 131072,
+      "survivors": 18135,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004587520.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004587520.npy"
+    },
+    {
+      "first": 4718592,
+      "count": 131072,
+      "survivors": 14927,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004718592.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004718592.npy"
+    },
+    {
+      "first": 4849664,
+      "count": 131072,
+      "survivors": 17543,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004849664.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004849664.npy"
+    },
+    {
+      "first": 4980736,
+      "count": 131072,
+      "survivors": 14548,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0004980736.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0004980736.npy"
+    },
+    {
+      "first": 5111808,
+      "count": 131072,
+      "survivors": 24185,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0005111808.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0005111808.npy"
+    },
+    {
+      "first": 5242880,
+      "count": 131072,
+      "survivors": 18450,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0005242880.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0005242880.npy"
+    },
+    {
+      "first": 5373952,
+      "count": 131072,
+      "survivors": 22605,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0005373952.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0005373952.npy"
+    },
+    {
+      "first": 5505024,
+      "count": 131072,
+      "survivors": 13920,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0005505024.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0005505024.npy"
+    },
+    {
+      "first": 5636096,
+      "count": 131072,
+      "survivors": 18693,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0005636096.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0005636096.npy"
+    },
+    {
+      "first": 5767168,
+      "count": 131072,
+      "survivors": 13566,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0005767168.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0005767168.npy"
+    },
+    {
+      "first": 5898240,
+      "count": 131072,
+      "survivors": 14620,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0005898240.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0005898240.npy"
+    },
+    {
+      "first": 6029312,
+      "count": 131072,
+      "survivors": 18312,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006029312.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006029312.npy"
+    },
+    {
+      "first": 6160384,
+      "count": 131072,
+      "survivors": 6509,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006160384.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006160384.npy"
+    },
+    {
+      "first": 6291456,
+      "count": 131072,
+      "survivors": 22094,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006291456.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006291456.npy"
+    },
+    {
+      "first": 6422528,
+      "count": 131072,
+      "survivors": 23027,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006422528.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006422528.npy"
+    },
+    {
+      "first": 6553600,
+      "count": 131072,
+      "survivors": 25651,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006553600.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006553600.npy"
+    },
+    {
+      "first": 6684672,
+      "count": 131072,
+      "survivors": 17691,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006684672.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006684672.npy"
+    },
+    {
+      "first": 6815744,
+      "count": 131072,
+      "survivors": 23335,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006815744.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006815744.npy"
+    },
+    {
+      "first": 6946816,
+      "count": 131072,
+      "survivors": 18960,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0006946816.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0006946816.npy"
+    },
+    {
+      "first": 7077888,
+      "count": 131072,
+      "survivors": 15811,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007077888.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007077888.npy"
+    },
+    {
+      "first": 7208960,
+      "count": 131072,
+      "survivors": 8029,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007208960.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007208960.npy"
+    },
+    {
+      "first": 7340032,
+      "count": 131072,
+      "survivors": 8827,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007340032.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007340032.npy"
+    },
+    {
+      "first": 7471104,
+      "count": 131072,
+      "survivors": 8060,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007471104.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007471104.npy"
+    },
+    {
+      "first": 7602176,
+      "count": 131072,
+      "survivors": 15975,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007602176.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007602176.npy"
+    },
+    {
+      "first": 7733248,
+      "count": 131072,
+      "survivors": 10018,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007733248.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007733248.npy"
+    },
+    {
+      "first": 7864320,
+      "count": 131072,
+      "survivors": 15805,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007864320.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007864320.npy"
+    },
+    {
+      "first": 7995392,
+      "count": 131072,
+      "survivors": 18232,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0007995392.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0007995392.npy"
+    },
+    {
+      "first": 8126464,
+      "count": 131072,
+      "survivors": 22025,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0008126464.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0008126464.npy"
+    },
+    {
+      "first": 8257536,
+      "count": 131072,
+      "survivors": 15203,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0008257536.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0008257536.npy"
+    },
+    {
+      "first": 8388608,
+      "count": 131072,
+      "survivors": 12811,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0008388608.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0008388608.npy"
+    },
+    {
+      "first": 8519680,
+      "count": 131072,
+      "survivors": 7323,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0008519680.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0008519680.npy"
+    },
+    {
+      "first": 8650752,
+      "count": 131072,
+      "survivors": 8899,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0008650752.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0008650752.npy"
+    },
+    {
+      "first": 8781824,
+      "count": 131072,
+      "survivors": 8217,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0008781824.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0008781824.npy"
+    },
+    {
+      "first": 8912896,
+      "count": 131072,
+      "survivors": 11897,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0008912896.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0008912896.npy"
+    },
+    {
+      "first": 9043968,
+      "count": 131072,
+      "survivors": 9077,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009043968.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009043968.npy"
+    },
+    {
+      "first": 9175040,
+      "count": 131072,
+      "survivors": 13117,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009175040.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009175040.npy"
+    },
+    {
+      "first": 9306112,
+      "count": 131072,
+      "survivors": 11677,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009306112.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009306112.npy"
+    },
+    {
+      "first": 9437184,
+      "count": 131072,
+      "survivors": 9609,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009437184.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009437184.npy"
+    },
+    {
+      "first": 9568256,
+      "count": 131072,
+      "survivors": 9776,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009568256.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009568256.npy"
+    },
+    {
+      "first": 9699328,
+      "count": 131072,
+      "survivors": 10292,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009699328.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009699328.npy"
+    },
+    {
+      "first": 9830400,
+      "count": 131072,
+      "survivors": 9623,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009830400.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009830400.npy"
+    },
+    {
+      "first": 9961472,
+      "count": 131072,
+      "survivors": 4562,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0009961472.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0009961472.npy"
+    },
+    {
+      "first": 10092544,
+      "count": 131072,
+      "survivors": 8165,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0010092544.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0010092544.npy"
+    },
+    {
+      "first": 10223616,
+      "count": 131072,
+      "survivors": 3078,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0010223616.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0010223616.npy"
+    },
+    {
+      "first": 10354688,
+      "count": 131072,
+      "survivors": 3998,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0010354688.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0010354688.npy"
+    },
+    {
+      "first": 10485760,
+      "count": 131072,
+      "survivors": 8136,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0010485760.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0010485760.npy"
+    },
+    {
+      "first": 10616832,
+      "count": 131072,
+      "survivors": 9835,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0010616832.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0010616832.npy"
+    },
+    {
+      "first": 10747904,
+      "count": 131072,
+      "survivors": 15140,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0010747904.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0010747904.npy"
+    },
+    {
+      "first": 10878976,
+      "count": 131072,
+      "survivors": 12947,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0010878976.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0010878976.npy"
+    },
+    {
+      "first": 11010048,
+      "count": 131072,
+      "survivors": 10906,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011010048.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011010048.npy"
+    },
+    {
+      "first": 11141120,
+      "count": 131072,
+      "survivors": 8855,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011141120.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011141120.npy"
+    },
+    {
+      "first": 11272192,
+      "count": 131072,
+      "survivors": 5040,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011272192.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011272192.npy"
+    },
+    {
+      "first": 11403264,
+      "count": 131072,
+      "survivors": 5364,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011403264.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011403264.npy"
+    },
+    {
+      "first": 11534336,
+      "count": 131072,
+      "survivors": 6092,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011534336.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011534336.npy"
+    },
+    {
+      "first": 11665408,
+      "count": 131072,
+      "survivors": 10925,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011665408.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011665408.npy"
+    },
+    {
+      "first": 11796480,
+      "count": 131072,
+      "survivors": 5432,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011796480.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011796480.npy"
+    },
+    {
+      "first": 11927552,
+      "count": 131072,
+      "survivors": 7936,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0011927552.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0011927552.npy"
+    },
+    {
+      "first": 12058624,
+      "count": 131072,
+      "survivors": 8004,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012058624.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012058624.npy"
+    },
+    {
+      "first": 12189696,
+      "count": 131072,
+      "survivors": 12345,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012189696.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012189696.npy"
+    },
+    {
+      "first": 12320768,
+      "count": 131072,
+      "survivors": 18582,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012320768.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012320768.npy"
+    },
+    {
+      "first": 12451840,
+      "count": 131072,
+      "survivors": 8237,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012451840.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012451840.npy"
+    },
+    {
+      "first": 12582912,
+      "count": 131072,
+      "survivors": 4636,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012582912.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012582912.npy"
+    },
+    {
+      "first": 12713984,
+      "count": 131072,
+      "survivors": 5633,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012713984.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012713984.npy"
+    },
+    {
+      "first": 12845056,
+      "count": 131072,
+      "survivors": 2373,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012845056.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012845056.npy"
+    },
+    {
+      "first": 12976128,
+      "count": 131072,
+      "survivors": 11023,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0012976128.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0012976128.npy"
+    },
+    {
+      "first": 13107200,
+      "count": 131072,
+      "survivors": 10904,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0013107200.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0013107200.npy"
+    },
+    {
+      "first": 13238272,
+      "count": 131072,
+      "survivors": 7655,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0013238272.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0013238272.npy"
+    },
+    {
+      "first": 13369344,
+      "count": 131072,
+      "survivors": 7633,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0013369344.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0013369344.npy"
+    },
+    {
+      "first": 13500416,
+      "count": 131072,
+      "survivors": 6494,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0013500416.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0013500416.npy"
+    },
+    {
+      "first": 13631488,
+      "count": 131072,
+      "survivors": 7312,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0013631488.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0013631488.npy"
+    },
+    {
+      "first": 13762560,
+      "count": 131072,
+      "survivors": 5040,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0013762560.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0013762560.npy"
+    },
+    {
+      "first": 13893632,
+      "count": 131072,
+      "survivors": 1407,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0013893632.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0013893632.npy"
+    },
+    {
+      "first": 14024704,
+      "count": 131072,
+      "survivors": 3088,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014024704.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014024704.npy"
+    },
+    {
+      "first": 14155776,
+      "count": 131072,
+      "survivors": 3136,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014155776.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014155776.npy"
+    },
+    {
+      "first": 14286848,
+      "count": 131072,
+      "survivors": 5652,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014286848.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014286848.npy"
+    },
+    {
+      "first": 14417920,
+      "count": 131072,
+      "survivors": 6946,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014417920.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014417920.npy"
+    },
+    {
+      "first": 14548992,
+      "count": 131072,
+      "survivors": 8160,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014548992.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014548992.npy"
+    },
+    {
+      "first": 14680064,
+      "count": 131072,
+      "survivors": 4638,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014680064.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014680064.npy"
+    },
+    {
+      "first": 14811136,
+      "count": 131072,
+      "survivors": 4658,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014811136.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014811136.npy"
+    },
+    {
+      "first": 14942208,
+      "count": 131072,
+      "survivors": 2824,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0014942208.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0014942208.npy"
+    },
+    {
+      "first": 15073280,
+      "count": 131072,
+      "survivors": 3408,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015073280.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015073280.npy"
+    },
+    {
+      "first": 15204352,
+      "count": 131072,
+      "survivors": 3128,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015204352.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015204352.npy"
+    },
+    {
+      "first": 15335424,
+      "count": 131072,
+      "survivors": 16171,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015335424.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015335424.npy"
+    },
+    {
+      "first": 15466496,
+      "count": 131072,
+      "survivors": 20260,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015466496.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015466496.npy"
+    },
+    {
+      "first": 15597568,
+      "count": 131072,
+      "survivors": 13345,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015597568.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015597568.npy"
+    },
+    {
+      "first": 15728640,
+      "count": 131072,
+      "survivors": 11189,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015728640.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015728640.npy"
+    },
+    {
+      "first": 15859712,
+      "count": 131072,
+      "survivors": 5664,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015859712.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015859712.npy"
+    },
+    {
+      "first": 15990784,
+      "count": 131072,
+      "survivors": 7687,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0015990784.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0015990784.npy"
+    },
+    {
+      "first": 16121856,
+      "count": 131072,
+      "survivors": 15585,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0016121856.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0016121856.npy"
+    },
+    {
+      "first": 16252928,
+      "count": 131072,
+      "survivors": 8678,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0016252928.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0016252928.npy"
+    },
+    {
+      "first": 16384000,
+      "count": 131072,
+      "survivors": 9088,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0016384000.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0016384000.npy"
+    },
+    {
+      "first": 16515072,
+      "count": 131072,
+      "survivors": 6952,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0016515072.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0016515072.npy"
+    },
+    {
+      "first": 16646144,
+      "count": 131072,
+      "survivors": 3576,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0016646144.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0016646144.npy"
+    },
+    {
+      "first": 16777216,
+      "count": 131072,
+      "survivors": 3776,
+      "ids_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/survivors_0016777216.npy",
+      "angles_file": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/angular_witness_0016777216.npy"
+    },
+    {
+      "first": 16908288,
+      "count": 9814,
+      "survivors": 0,
+      "ids_file": null,
+      "angles_file": null
+    }
+  ],
+  "gpu": "Apple M5 Pro",
+  "cpu_numerical_fallback": false
+}

@@ -1,0 +1,14 @@
+Run from the SquarePacking project directory with WD_Game's proof volume mounted.
+Numerical geometry and algebra use GPU only. Existing candidate evidence stays unchanged.
+
+python3 triangle_square_research/check_independent_geometry_gpu.py
+python3 triangle_square_research/verify_legacy_independent_gpu.py
+python3 triangle_square_research/verify_later_independent_gpu.py
+python3 triangle_square_research/independent_coverage_gpu.py
+python3 triangle_square_research/independent_boundary_gpu.py
+python3 triangle_square_research/independent_seed_coverage_gpu.py
+python3 triangle_square_research/package_independent_verification.py
+
+Archived producer shaders reconstruct committed claims. They are not the
+standalone verifier's rejection predicates. Inspect dependency_review and
+the core, motion, coverage and algebra source commitments in certificate.json.

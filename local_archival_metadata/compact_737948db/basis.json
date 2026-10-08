@@ -1,0 +1,11 @@
+{
+  "parent_checkpoint": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/compact_b4ab8838/checkpoint.json",
+  "parent_checkpoint_sha256": "abbecd80efcb4de8a306f02ac2d61924b18d21e2d9d58a9cc0c4ed97ae337e54",
+  "frontier": [],
+  "terminal": [],
+  "kind": "side_shell",
+  "target_numerator": 1478397,
+  "target_denominator": 1000000,
+  "side_lower_fixed": 24803268,
+  "justification": "The parent excludes all smaller sides. This shell begins at the dyadic floor of the parent rational target, so it overlaps the proved region and leaves no gap."
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "rows": 1597440,
+  "physical_claims": 1358034,
+  "contraction_claims": 239406,
+  "rigid_motion_claims": 10052,
+  "all_journal_commitments_matched": true,
+  "elapsed_seconds": 99.61672033276409,
+  "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_3503e13b",
+  "checkpoint_sha256": "6806b44b17a6984f4eb1599e389dc14b68a28ccf889b6884bd1fb527be36deb4",
+  "verifier_sha256": "27157de8c34f05b6fda9907e8de1cd0911a10f5a3c1a10de46e1edf61be7c9e5",
+  "motion_verifier_sha256": "2aac138ab9c69e7b3df93f54f17b6b2e1d4bcb65f54d6f8c3dbe3e3ebc37957e",
+  "adapter_sha256": "5255561205a359a05763cf4f732793354b3fd312fbcb4f936bf26627b368232f",
+  "cpu_numerical_fallback": false
+}

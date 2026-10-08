@@ -1,0 +1,211 @@
+Independent local mathematical review
+
+Problem: three congruent unit equilateral triangles inside a square, with
+disjoint interiors. Boundary contact is allowed. Claimed minimum square side:
+sqrt(3)/2 + sqrt(6)/4. This review was written by the same assistant that
+conducted the search, using separate derivations and implementations. It is
+not external peer review and is not a formal proof-assistant derivation.
+
+1. Precisely define the predicates being certified
+
+For each encoded profile, P(x) means a packing with that FULL active wall
+profile and those actual pair-contact types. A zero pair code denotes no
+contact when assigning a full profile. Vertex-edge means contact in the
+relative interior of the edge; edge-edge means positive-length overlap.
+Unrecorded walls and pairs have strict slack in a full profile.
+
+This qualification is essential. The same numeric row can contain geometric
+boundary points whose actual full profile has extra contacts. Such points
+belong to a different P. In particular, outside-the-owner-edge inequalities
+for a proper vertex-edge contact need not hold for an arbitrary endpoint
+vertex-vertex contact. Endpoint points are assigned vertex-vertex profiles.
+The checked contractions preserve every point of P in the parent box; they
+are not claims about every possible interpretation of a requirement prefix.
+
+2. Every possible global minimum has an encoded profile
+
+The independently checked construction gives a feasible upper bound S0.
+Any square can be translated and rotated into the centred axis-aligned frame
+without changing its side or the admissible triangle shapes. Centroids are
+convex averages of contained vertices and hence lie inside that square.
+Rotations form a compact circle. Containment and disjoint interiors are closed
+conditions, expressible through finitely many polygon supporting axes.
+Restricting side lengths to [0,S0] therefore gives an attained global minimum.
+Area gives 16*S^4 >= 27 and thus S>1. The construction also gives S0<2.
+
+Each unit triangle has diameter one, so it cannot touch opposite walls.
+A touched wall supports a vertex or an edge. A square corner, if contained in
+a triangle, must be a triangle vertex, since it is an extreme point. Two
+60-degree triangle interior sectors cannot fit disjointly in its 90-degree
+quadrant. These facts justify the wall-mask structural and corner exclusions.
+
+The intersection of two convex triangles with disjoint interiors is empty,
+a single boundary point, or a boundary segment. A point is vertex-vertex or
+proper vertex-edge: two intersecting relative edge interiors either create
+interior overlap or share a positive segment. A positive segment is edge-edge.
+The 37 pair modes therefore cover all actual contacts. Cyclic vertex labels,
+triangle permutations and square D4 transformations preserve the problem;
+reflections reverse vertex order before returning to CCW labels.
+
+Vertex support cones have half-angle 60 degrees, proper VE imposes the
+corresponding outside-halfplane cone, VV interior sectors require centre-ray
+separation at least 60 degrees, and positive EE requires opposite normals.
+All cone endpoints and difference equalities have integer offsets in units
+of 30 degrees. Flooring unwrapped real angular variables preserves their
+integer difference bounds/equalities and circular branches. The separate
+15-degree relation join verified every finite angular membership, every
+geometric profile reduction and every component-criticality membership.
+This does not restrict actual packing orientations to a finite grid.
+
+3. Necessary minimum-profile reductions
+
+Contact components can be translated rigidly. If none spans opposite walls,
+shrink the square and translate each component at velocity +/-1/2 along its
+touched coordinate directions. Contacts within a component are preserved.
+Untouched wall clearances and distances between components are strictly
+positive in P, so sufficiently small translations preserve feasibility.
+Such a full profile cannot contain a global minimum.
+
+Two unit bases cannot share a wall when S<2: their base intervals overlap in
+positive length, and both triangles have interior on the same side. Proper
+VE or positive EE cannot use a container-wall edge for the same local reason.
+
+For a component whose sole determining span has unique supporting vertices,
+the span after a small rigid rotation is A*cos(theta)+B*sin(theta)>0. Its second
+derivative is its negative. A nonzero first derivative permits descent; zero
+first derivative is a strict local maximum. The other dimension has slack.
+Thus a minimum requires some component with both dimensions binding or
+multiple labelled supports on a determining wall. Coincident labels only
+overcount cases and hence do not exclude a legitimate minimum.
+
+For multiple supports, the positive-angle width derivative is
+max(y_left)-min(y_right); the negative-angle derivative is
+min(y_left)-max(y_right). Vertical derivatives use the analogous top/bottom
+x coordinates. A zero determining derivative still gives second-order
+decrease through the negative curvature. Both binding dimensions must share
+a decreasing angle sign. Other vertices remain inactive for a sufficiently
+small angle. Every component can then be shifted continuously to fit the
+slightly smaller centred square. Strict distances between components persist.
+The new verifier separately checked each recorded rotation removal.
+Rigidly moving an entire component does not assume that it is internally
+rigid: flexible and singular components admit that motion too.
+
+4. Continuous root coverage and geometry semantics
+
+Every proper unit triangle has the canonical CCW body vertices
+(1/2,-h/3),(0,2h/3),(-1/2,-h/3), h=sqrt(3)/2, up to a rotation and translation.
+Their sum is zero, their edges are unit, their area is h/2, and their outward
+normal/support tables are checked independently in Q(sqrt(2),sqrt(3)).
+
+Two rational charts cover the whole rotation circle. For c>=0 on the unit
+circle, t=s/(1+c) lies in [-1,1] and recovers c=(1-t^2)/(1+t^2),
+s=2t/(1+t^2). For c<0, apply this to (-c,-s) and negate the resulting matrix.
+Seams appear in both charts. All eight piece-chart combinations are supplied.
+The independently generated initial centroid, rotation and side bounds match
+all implicit roots. The initial area lower bound satisfies the exact
+128-bit inequality 16*L^4 <= 27*Q^4. All shell starts overlap the previous
+completed rational target. Every coordinate in the precision lift scales
+exactly; all old terminal regions are reconsidered. Target clipping discards
+only regions with side lower bound above the target ceiling.
+
+Halfspace conditions use unit edge normals. Contact heights from opposite
+vertices are h for VE and 2h for EE. A triangle's minimum projection width is
+h: its width is the maximum absolute projection of its three unit edges, and
+the six directed edge rays are spaced 60 degrees apart. One is within 30
+degrees of any projection direction. The six edge-normal separating axes
+are complete for triangle pairs by the convex polygon separating-axis
+property; Minkowski-difference edges come from edges of the two triangles.
+
+The new interval implementation uses guarded signed integer products, outward
+bit-shift floor/ceiling, signed quotient bounds, and a full 64x64-to-128-bit
+product for rational rotation endpoints. Its radical search uses unsigned
+squares bounded by 9*Q^2<2^64. Unknown arithmetic disables certification.
+The rotation derivative identities establish monotone endpoint bounds.
+Vector-radius clipping, containment, support equalities, unit distances and
+proper-contact membership conditions are necessary for P. Equality and
+halfspace contractors intersect with outward enclosures of necessary
+coordinate expressions. Solving a halfspace with a negative normal component
+uses the quotient's upper endpoint; positive uses its lower endpoint.
+
+For every successful producer contraction, the independent enclosure either
+proves P empty or is contained inside the recorded contracted rectangle.
+Every producer physical rejection is likewise checked separately. The
+existing exact parent queues, splits and journal commitments establish the
+tree's bookkeeping; no unexplored region is silently counted as excluded.
+
+5. Independently checked strict motions
+
+Set side derivative to -1. Active wall violation derivatives must be strictly
+negative. For an owner supporting normal n, gap derivative is
+n dot (v_other-v_owner) + omega_owner*Jn dot (centre_delta+local_other)
+- omega_other*Jn dot local_other.
+This follows by differentiating the rotating support plane and using the
+skew symmetry of J. It is independent of the floating witness proposer.
+
+For VV, the owner endpoint tangent coefficient is +/-1/2 on an incident edge,
+or zero on its radial support plane. Proper VE gives owner tangent coefficient
+in [-1/2,1/2]. Positive EE gives an owner coefficient in [-3/2,3/2] and other
+endpoint coefficients exactly -1/2,+1/2. These bounds follow from the unit
+segment projections and positive segment overlap. Noncontact vertices on
+the chosen axis have strictly positive initial gaps. All other absent
+contacts/walls have strict slack under P. Strict derivative inequalities
+therefore give a smaller feasible square for each actual point of P after
+a sufficiently small positive time. No uniform step over the closed numeric
+box is asserted or required. The new verifier checks supplied dyadic
+velocities directly, and independently checks every recorded removal.
+
+6. Independent exact boundary-family proof and construction
+
+After square symmetry put the corner vertex at A=(0,0), and opposite bases
+on the right and top walls. Their apices are P=(u,z1), T=(z2,u), u=S-h,
+zi in [1/2,S-1/2]. The independent window check puts every shell side strictly
+between (sqrt(3)+1)/2 and sqrt(3). It verifies h-u>0 and
+sqrt(3)*u-(S-1/2)>0, so the apices lie strictly in the common 30-to-60-degree
+cone of every possible corner triangle. Nonoverlap therefore forces
+A1=nx*u+ny*z1-h>=0 and A2=nx*z2+ny*u-h>=0, where the corner opposite-edge
+unit normal has nx,ny>0 and nx^2+ny^2=1.
+
+The right/top wall axes cannot separate the opposite contained unit bases.
+Their two non-facing sloped axes have a strictly negative gap at an opposite
+base endpoint: u<h<1, zi+1/2-u>=1-u>0, and S-zi>=1/2. Only the two facing
+sloped edges remain. Their apex inequalities are respectively
+CL=(1+sqrt(3))*u-z1-sqrt(3)*z2>=0 or
+CR=(1+sqrt(3))*u-sqrt(3)*z1-z2>=0.
+
+Eliminating z1,z2 gives the independently checked positive dual identities
+nx*A1+sqrt(3)*ny*A2+nx*ny*CL=(nx+sqrt(3)*ny)*(u*(nx+ny)-h), and
+sqrt(3)*nx*A1+ny*A2+nx*ny*CR=(sqrt(3)*nx+ny)*(u*(nx+ny)-h).
+Hence u*(nx+ny)>=h. Unit-normal Cauchy gives nx+ny<=sqrt(2), so
+S>=h+h/sqrt(2)=h+q, q=sqrt(6)/4. This proof treats independent sliding apices
+and arbitrary corner orientation. It imposes neither a rank condition nor
+an apex-equality assumption. Every analytic wall classification matches.
+
+The earlier specialised shared-apex rule is valid even below this window:
+the coded contacts force P=(u,u) and the corner-edge equation
+u*(nx+ny)=h. Since S>1>h, u>0, and Cauchy again gives S>=h+q.
+
+With a=sqrt(2)/4, the exact upper construction is
+corner [(0,0),(q+a,q-a),(q-a,q+a)],
+right [(q,q),(h+q,q-1/2),(h+q,q+1/2)],
+top [(q,q),(q+1/2,h+q),(q-1/2,h+q)].
+All unit distances and positive containment margins are independently checked
+in the four-element field basis. The plane x+y=2q separates the corner from
+the other triangles. The plane through (q,q) with normal (-1/2,h) separates
+the right and top triangles, with vertex gaps (0,-h,0) and (0,1/2,1).
+This achieves the lower-bound value without interior overlaps.
+
+7. Conclusion and remaining trust
+
+An actual better packing would imply an attained global minimum below S0.
+Its full proper profile and continuous parameters are represented by the
+audited root domains. The independently checked inference tree would either
+exclude it as infeasible/non-minimum or put it in an analytic family with
+S>=S0. Each disposition contradicts a smaller global minimum. The exact
+construction attains S0. This is the computer-assisted certificate's global
+minimum claim.
+
+The implementation still trusts GPU/compiler integer semantics, the file/hash
+and evidence-adapter bookkeeping, and the written mathematical lemmas above.
+These have separate implementation checks and a local source review, not a
+formal proof assistant or external mathematical peer review. No external
+reviewer was contacted and no claim of publication or novelty is made.

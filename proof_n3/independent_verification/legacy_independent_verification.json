@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "rows": 99679251,
+  "physical_claims": 52881441,
+  "contraction_claims": 46797810,
+  "retained_claims": 0,
+  "every_physical_rejection_independently_verified": true,
+  "every_successful_contraction_independently_verified": true,
+  "standalone_model_imports_no_search_geometry": true,
+  "verifier_sha256": "27157de8c34f05b6fda9907e8de1cd0911a10f5a3c1a10de46e1edf61be7c9e5",
+  "producer_reconstruction_sha256": "81166ef8aee4860b0fbc2670cb5fb1907ac3370cc5df6bde101d7c9e7bddde1e",
+  "cpu_numerical_fallback": false,
+  "elapsed_seconds": 246.2103495420888
+}

@@ -1,0 +1,242 @@
+{
+  "passed": true,
+  "nodes_checked": 33,
+  "nodes": [
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_a4156676",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "03b9a8714a909d4fe1f7d38fd9f6618581a6a1baadf974df9db5b140415b0d95",
+      "audit_sha256": "03314ee69399ab7acd20830bc30c6d5db3006b3e9d084034b671a15ea73986c0",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/descent_a856ec16",
+      "format": "strict-descent-reduction-v1",
+      "checkpoint_sha256": "d6d0b60c7f753b3e67ee0bb1c1123193cb47e40e32ee817c69aab1241c3d1734",
+      "audit_sha256": "ccee228f2964aa4207576004c212328232ac2ed2869fa964ad7458dbeb01f467",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_4f51995b",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "62f88e2c8b9ae78c1cfb0d94bd50c16849322c5688f4286ef67218e6abb571ba",
+      "audit_sha256": "7d3e16c6c34da1f9744ac638eb14c3ac507a5985fcd143d2825653f8d487e060",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_bc7fabd9",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "2ff71a3f4cf6efcd40cd84864effec50bfe8c03f7ca177f149e60b7453938452",
+      "audit_sha256": "e33fe488305b2339af889805f240d367c70d34411f9275089fbffda1c0f09754",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_b3c580ef",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "8840d225c42f5b076a8adfcd354d9b36ad7dd475db26bf66af90031b5b5e7244",
+      "audit_sha256": "803258176bb1437b142351faa1e3b1348ec24e458434d13d7e621cfc18bd7ff4",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/descent_2d90ab97",
+      "format": "strict-descent-reduction-v1",
+      "checkpoint_sha256": "fc1b321dc45b981af5edddd9ecb0e140316beccba2619cab9e03240fe49d02a8",
+      "audit_sha256": "8465274e1f5ac59b841737267e9bba5dd3dc986271076b7412c318bfa19045c6",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_b2a7dc1c",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "f3afd6c1dd8b861406e19f80d256ef0c2f423b5eb5cf3b74a59bb5d246dcd8fc",
+      "audit_sha256": "76e8f473b88edd6f4fa55bfb2f681f86f398cf35933632a604d184c7e5298461",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_d6908e27",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "96b2abeab4182f27dfe19f6e7ac90b997186ca93c9f0660557c410b0c4035719",
+      "audit_sha256": "222cee18c3e66d622da732e73fdfa467b163cdbccd2dfd45f53a8a2152a17c34",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_3503e13b",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "6806b44b17a6984f4eb1599e389dc14b68a28ccf889b6884bd1fb527be36deb4",
+      "audit_sha256": "49ada247a1a1db359fd36e7a5c33d3eb9ea7933eb5f87a9ec2c1d23bae0cf108",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/boundary_seed_8e6474bd",
+      "format": "exact-boundary-seed-v1",
+      "checkpoint_sha256": "453e8d39591a5e5e8903c383068d87f00ecedb1aaf3d832fd14373ffaaa50c11",
+      "audit_sha256": "44ee35360cc5975917375fd4f42be9058232496f635cd32d2320054fa2d9284f",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_eef9a26d",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "13746e7460b07d8704c8d1028cf848cd28a229428eba3b0e04f5849ced88f3ce",
+      "audit_sha256": "c9c04ca6c1e57aa71be750f87b4400767bb47507ad2151e9ef10fb770440e35a",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/descent_00c5e864",
+      "format": "strict-descent-reduction-v1",
+      "checkpoint_sha256": "126249fafb33b20b068ec22c83e6ae6e47746d9a30fa392344d1e7d25b737f99",
+      "audit_sha256": "50b256e37ce28d4d8a9e0d43da82d368f7e18eeb9112c39ee108786395c1958c",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/descent_c9dc7f14",
+      "format": "strict-descent-reduction-v1",
+      "checkpoint_sha256": "647d6868a810b47a8f6a48e09236d6d5b1e8881283a346cd6828281e6de41871",
+      "audit_sha256": "4cc89eb58794dddfc96d42d46cd82033b31e0f9317bee4cd312616a6467bc283",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_c9610c89",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "c23137f7a97abc34d0b3b75a8f24149b9f8fa08b2eb29e45343beb63c14a3b64",
+      "audit_sha256": "74302196f0a0297e6111d9adace8930d8518df7abe2812180cb8f5ea30321c1e",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/precision_seed_73638c7b",
+      "format": "precision-upgrade-v1",
+      "checkpoint_sha256": "013a5632b1b674f480044ac543d176677b4b6957f95316104aece2bfa3b4a609",
+      "audit_sha256": "28dc6074dae7e74a7327557a5761c6680bb0df5debfd57c48185266a1e248256",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_fd1e663c",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "b553a5855abd6989d32762981e9353a33eaa1893c6b2804792592cf3dc3c7070",
+      "audit_sha256": "1c4dab4501435ba8744fcd9a559a5818feeb94c64e375e9c70684198d4bec196",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_8843e7ef",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "5d37b4f809ae82030e50b4ca699b31078a16f49093cb3155d431e4dd8824b11a",
+      "audit_sha256": "fc30101de185dade43698afbddbbd676c7d6f472e19dbbbd0ab1bfcfdcddff51",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_6779d23b",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "19d550ec1b1d5f4b9508971f825f316e7b7378e88443bdbecb3ddd7a874068cc",
+      "audit_sha256": "9873f5634b55e399f619dcaa7730d8ca4c3681c487020e8215e811a044bf9354",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_660b0a11",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "fb6aa912958918d0b0cd491b129d939a485f58290565fec141ecdf5e1f66c4c4",
+      "audit_sha256": "420c5c3130301b9d9b1ced9386f5607a81c9cecc6093d6bf549594751ed9a077",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_10a74761",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "0b60455dc3dab2bcfa3d71a01f24f5a8d2b7350aa6a303a56755eaf09291739b",
+      "audit_sha256": "e1902ee7dd64b01d76a50c4f3fcf2dc7ce8d00d9677c941dc7262f60fa095e20",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_daf442ef",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "42684af3b591de2b14c363f8954ab2430e54885e48c421419f0e199bec6e206c",
+      "audit_sha256": "e7d44c2326fe52c87c1c40df9d9ec8288f8e937529a967c807a47af235876aa0",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_4f5afc8b",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "d22f7ac8a3a64984641ed05dbda1b72a82a26729ac677a6161aab9597b4805bb",
+      "audit_sha256": "597a721a37cdb1eb23acc938aa6745f07b96d0913acafc3a4bc6e6cf9c7273a6",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_2268ba58",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "2357831aec5c503675909e010a3f6595527e41b6b8fdb8a22b33bf1aba805b0e",
+      "audit_sha256": "2af11ac84778796424a6d8d34be9737f42a2e70ed82994918d795c11585edae8",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_8bc4b201",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "6478b6e21e14306f975ceac21eaafb67811ee66033a2cba302ab675d97dbf4a3",
+      "audit_sha256": "3fa6c14e360cb3668cf86e886a8d2dc037848628193d9ba819e3ae8185ab055b",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_caddab7b",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "6d4fcd99d233be472b60d5f09294fa21eae9d8851b5e446e779279beb22d58d8",
+      "audit_sha256": "6a41848e7737d6d124195dd1f9c32c4cbd0f5a98570250c191ea073f5fbe2cde",
+      "passed": true
+    },
+    {
+      "directory": "/Volumes/SquarePackingProof/SquarePacking/runs/compact_e0dc8c50",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "2055eccff0ace079c5609eec42bef9a709010b4212e379ca567f81b778a563c4",
+      "audit_sha256": "8b3303f5acbca241aa39b2c3d200c1ae23d3b07cd0c97be1f63a90e7abcc5ffc",
+      "passed": true
+    },
+    {
+      "directory": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/compact_737948db",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "0de0483b8d6816cbde3d94ef08f0b3bc371f23556ff0d5f0ccdbffa70be3a6b8",
+      "audit_sha256": "41893d95a0526ee2c1244c9eb9e17113f0f3ef0e41388e3a286dbf59d19ad36c",
+      "passed": true
+    },
+    {
+      "directory": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/compact_b4ab8838",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "abbecd80efcb4de8a306f02ac2d61924b18d21e2d9d58a9cc0c4ed97ae337e54",
+      "audit_sha256": "0c7099ebcb3e9b365206aaf849abf4e1c27b1a4ccdfe3b794219b5ddd3c418b9",
+      "passed": true
+    },
+    {
+      "directory": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/minimum_rotation_4e81fb64",
+      "format": "minimum-rotation-reduction-v1",
+      "checkpoint_sha256": "f675c26e18b73c3699d45b520ff3cb97a3c08de05c121474f3b06f4aee99d882",
+      "audit_sha256": "e24fad515897f5f23a3a49a292e90ded2bc3a7ff004db1269f5fa041b5ff10d5",
+      "passed": true
+    },
+    {
+      "directory": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/compact_f2b645a0",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "3318dbaca231f22eecd0fe3af67ebb9c0022959d0b1d25368af4771faf7e5e73",
+      "audit_sha256": "213231c3d8aab97352ab6a992f7bcb889299eb39d94ce8e11174250ecc47964e",
+      "passed": true
+    },
+    {
+      "directory": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/compact_59c6a830",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "78734c8dd26cdcc097b4a4ed2bc52999a48020fdfc74e745f1a49ace8b83d9f3",
+      "audit_sha256": "3c67a71669a362cd3e2dc7e926e65c7c91e41272ff0f7c2c42b92d5f90f9789b",
+      "passed": true
+    },
+    {
+      "directory": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/compact_e58e111d",
+      "format": "compact-deterministic-replay-v1",
+      "checkpoint_sha256": "c308bec769093d9fca4de3b5bb613faa217ab193bfce8a073c65dbd096e7fe67",
+      "audit_sha256": "97314a07e4f3b0152e36eee380b86f25b4a76215da7763ad7b8cb09083e22a51",
+      "passed": true
+    },
+    {
+      "directory": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da",
+      "format": "legacy-full-history",
+      "checkpoint_sha256": "4dad0bcc78b683f91bff5f81e5b4cbc916606f113ec117c9591c7b8958fad6fc",
+      "audit_sha256": "7717fec22228be1b6d005b424d4cc7bc768a62734b33e865b8aea323d1b6b3d3",
+      "passed": true
+    }
+  ],
+  "all_code_input_parent_and_journal_hashes_match": true,
+  "all_saved_GPU_replay_receipts_passed": true,
+  "all_boundary_regions_disposed": true,
+  "geometry_check_role": "None; file and metadata checks only. The separate GPU receipts supply numerical verification.",
+  "elapsed_seconds": 397.12600216735154
+}

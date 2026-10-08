@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "all_batches_reconstructed": 86,
+  "all_intermediate_hashes_matched": true,
+  "every_exclusion_rechecked_with_separate_arithmetic": true,
+  "parent_and_input_hashes_matched": true,
+  "all_new_bisections_independently_checked_on_MPS": true,
+  "frontier_exactly_reconstructed": true,
+  "new_boxes_evaluated": 2087032,
+  "new_interval_exclusions": 1156911,
+  "saved_splits_checked": 930121,
+  "frontier_boxes": 0,
+  "frontier_profiles": 0,
+  "shared_geometric_model_independently_verified": false,
+  "cpu_numerical_fallback": false,
+  "elapsed_seconds": 6.7676362921483815,
+  "global_optimality_proved": false
+}

@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "genuine_singular_full_profile_retained": true,
+  "strict_descent_prefix_witness_checked": true,
+  "prefix_requirement_id": 3761555,
+  "velocity_numerators": [
+    [
+      -1434,
+      2048,
+      -2150,
+      -1434,
+      -563,
+      -563,
+      -4096,
+      -4096,
+      0
+    ]
+  ],
+  "velocity_denominator": 1024,
+  "independent_reference_certificate_passed": true,
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "initial_continuous_roots_checked": 10026568,
+  "all_initial_root_bounds_and_chart_labels_match_independent_generator": true,
+  "area_lower_bound_checked_by_exact_128bit_quartic_inequality": true,
+  "overlapping_rational_shells_checked": 3,
+  "precision_upgrade_input_regions": 12083018,
+  "precision_upgrade_retained_regions": 12062531,
+  "all_old_terminals_reconsidered_and_exact_scaling_checked": true,
+  "boundary_continuous_roots_checked": 7602736,
+  "exact_boundary_upper_contains_s0": true,
+  "cpu_numerical_fallback": false,
+  "source_sha256": "acbdb640932883131e3de3db30c0568b954ab85a114f7774362e9435d293d048",
+  "elapsed_seconds": 212.33355508279055
+}

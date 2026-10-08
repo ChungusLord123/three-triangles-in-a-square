@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "genuine_singular_optimum_retained": true,
+  "generated_rational_witnesses_independently_checked": 3,
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

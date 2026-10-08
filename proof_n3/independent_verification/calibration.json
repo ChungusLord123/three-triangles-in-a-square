@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "outcomes": [
+    {
+      "bits": 24,
+      "singular_exact_construction_retained": true,
+      "invalid_containment_rejected": true,
+      "overlapping_interiors_rejected": true,
+      "strict_descent_witness_verified": true,
+      "true_minimum_not_given_strict_descent": true,
+      "radical_enclosures": [
+        29058990,
+        29058991,
+        41095618,
+        41095619,
+        23726566,
+        23726567,
+        24803399,
+        24803401
+      ]
+    },
+    {
+      "bits": 30,
+      "singular_exact_construction_retained": true,
+      "invalid_containment_rejected": true,
+      "overlapping_interiors_rejected": true,
+      "strict_descent_witness_verified": true,
+      "true_minimum_not_given_strict_descent": true,
+      "radical_enclosures": [
+        1859775393,
+        1859775394,
+        2630119584,
+        2630119585,
+        1518500249,
+        1518500250,
+        1587417592,
+        1587417594
+      ]
+    }
+  ],
+  "imports_search_geometry": false,
+  "cpu_numerical_fallback": false,
+  "source_sha256": "27157de8c34f05b6fda9907e8de1cd0911a10f5a3c1a10de46e1edf61be7c9e5"
+}

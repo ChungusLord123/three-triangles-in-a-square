@@ -1,0 +1,15 @@
+{
+  "input_critical_candidates": 1650801,
+  "spatial_candidates": 1253321,
+  "geometric_exclusions": 397480,
+  "target_numerator": 14783,
+  "target_denominator": 10000,
+  "independent_MPS_check_passed": true,
+  "rules": [
+    "A proper vertex-edge interior contact or positive edge-edge overlap cannot use an edge lying on the container wall: both polygons would require interior on the same side.",
+    "For s<2, two unit triangle edges cannot both lie on the same square wall: their unit-length base intervals must overlap in positive length, causing interior overlap."
+  ],
+  "boundary_cases": "Endpoint contacts are covered by vertex-vertex modes; zero-length edge overlaps are also covered there.",
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "random_rotation_intervals": 16000,
+  "reference_points_per_interval": 9,
+  "sampled_reference_point_enclosures_preserved": true,
+  "singular_and_rotated_feasible_roots_preserved": 10,
+  "scope": "Calibration and regression checks; enclosure justification is the documented derivative-sign argument, not sampling.",
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

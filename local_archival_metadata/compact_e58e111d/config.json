@@ -1,0 +1,25 @@
+{
+  "format": "compact-deterministic-replay-v1",
+  "target_numerator": 14783,
+  "target_denominator": 10000,
+  "rounds": 4,
+  "minimum_split_width": 16,
+  "batch": 32768,
+  "input_file_sha256": {
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/rotation_critical_lookup.npy": "e54fb6cbb95623b2abef638eb0cb7d7a57fafb12d8388e1e5aa1a3eb921dde1e",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/wall_masks.npy": "6b31842f31feb26aa89c3a48e56944c9e669efecebe26465af03d01538b1bc8e",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/wall_triplets.npy": "5b9f775207cdc7f6ec8c59afcb66e3304e0e28d8e7210486d9b48c685902d7ed",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/contact_catalog/wall_angles.npy": "f52083d450341be32df01b82f16e3702fdd604d5344181c4218bf103d507db9d"
+  },
+  "code_file_sha256": {
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/compact_certified_search_gpu.py": "607677843131a2a2f7f2819c908df1ca81944faf3ba79ffbf4f651580048ade8",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_model_v2_gpu.py": "8a64ba50a6a9fa0d8a5eea7aabc689503bc982492472568876f0774943e2c1f4",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial_search.py": "224c05356236940e27587f237fede9d6bafab9fcc0fd94528fc5535e190793d8",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_intervals_gpu.py": "7902b670cf570d7121e65618da0ab502fd66c6395ed6e4041c2a90e5ffa80c6f",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_reference_gpu.py": "5009fc98be49657ca5c47362b06528bb6e95ca0dc649ce1b233f44ea4d43628a",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_model_gpu.py": "0c12d1a141b86cf30c7f76707002ae87ee760a80f1523589e0830666eef010af",
+    "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/check_compact_splits_mps.py": "cd6d8cc4a287854d1b36e26ddb44c9223b7ec318960eb31ae1e97f8feac2ac53"
+  },
+  "primary_model_sha256": "62caa5cabb89e7bb7e5750377d0a47de235951a724419b389e1c0ee087883ba9",
+  "reference_model_sha256": "308dc0ca2002f50679a6b72a8f3afa3f2501b03a90a16266f51d64a4c0411e9e"
+}

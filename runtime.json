@@ -1,0 +1,11 @@
+{
+  "python": "3.14.7",
+  "architecture": "arm64",
+  "packages": {
+    "mlx": "0.31.2",
+    "torch": "2.12.1",
+    "numpy": "2.4.4"
+  },
+  "role": "Current package versions recorded during packaging on the originating machine. Historical full-run versions were not separately pinned by this package.",
+  "recorded_date": "2026-10-07"
+}

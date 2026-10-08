@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "legacy_records_reconstructed": 14484,
+  "boxes_reconstructed": 99679251,
+  "physical_exclusions_freshly_rechecked": 52881441,
+  "splits_independently_rechecked_on_MPS": 45208275,
+  "every_branch_input_matches_its_exact_parent_queue": true,
+  "interrupted_pass_carry_regions_exactly_preserved": true,
+  "all_primary_reasons_contractions_and_dimensions_match": true,
+  "all_roots_covered": true,
+  "unresolved_frontier_exactly_reconstructed": true,
+  "frontier_boxes": 2353402,
+  "root_checkpoint_sha256": "4dad0bcc78b683f91bff5f81e5b4cbc916606f113ec117c9591c7b8958fad6fc",
+  "primary_model_sha256": "2527e2ee5afeec688d7d4cf4169138b0df121125e64f69e992d97749f44a24b6",
+  "reference_model_sha256": "a21cc55087ccfdb7d33292b9b011d1974cf79e26d409154c66c14fce3e3348a6",
+  "checker_sha256": "88d6c333ecea5370c621eded02eaff6a70adec8f16502ec44095f9428f0f6649",
+  "cpu_numerical_fallback": false,
+  "elapsed_seconds": 182.68313429085538
+}

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "input_profiles": 1253321,
+  "rotation_critical_profiles": 958599,
+  "noncritical_full_profiles": 294722,
+  "independent_MPS_all_decisions_passed": true,
+  "known_singular_optimum_retained": true,
+  "cpu_numerical_fallback": false,
+  "scope": "Necessary condition on the full active profile of an attained optimum; not a claim that skipped prefixes have no feasible packings.",
+  "criterion": "Some contact component spans all four walls, or spans one opposite pair with at least two labelled supports on one wall of that pair.",
+  "justification": "Necessary rotation-criticality condition for full optimum contact profiles.\n\nIf every component that determines square size spans just one opposite-wall\npair, with one unique vertex on each of those walls, rotate each such rigid\ncomponent a little to reduce its determining span. That span is A cos(a)+\nB sin(a)>0 and has second derivative equal to its negative. A nonzero first\nderivative permits descent; a zero derivative is a strict local maximum.\nThe other span has strict slack. Unconnected components have strict gaps, so\nsmall rotations and translations preserve disjoint interiors. Thus an attained\noptimum needs a component spanning both wall pairs, or at least two labelled\nsupport vertices on a wall of a determining pair. Counting labels overcounts\ncoincident supports and only retains extra cases.\n\nThis rejects noncritical FULL active profiles, not feasible requirement\nprefixes. Extra-contact boundary solutions are represented by their full\nprofiles and must not be discarded globally. Flexible and singular pieces\nare preserved; the motion rotates each entire connected component rigidly.\n",
+  "global_optimality_proved": false,
+  "lookup_sha256": "e54fb6cbb95623b2abef638eb0cb7d7a57fafb12d8388e1e5aa1a3eb921dde1e"
+}

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "parent_and_all_code_input_hashes_matched": true,
+  "entire_root_partition_independently_checked_on_MPS": true,
+  "MPS_profile_quotients_used_exact_binary_division": true,
+  "all_full_circle_charts_reconstructed": true,
+  "all_remaining_roots_reconstructed": true,
+  "analytic_covered_profiles": 8257,
+  "remaining_profiles": 950342,
+  "frontier_boxes": 7602736,
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false,
+  "elapsed_seconds": 0.9895085413008928
+}

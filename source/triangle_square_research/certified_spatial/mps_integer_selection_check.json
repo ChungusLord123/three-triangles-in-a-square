@@ -1,0 +1,28 @@
+{
+  "exact_selection_regression_passed": true,
+  "MPS_gather_rounding_reproduced": true,
+  "input": [
+    [
+      19121890,
+      24801759
+    ],
+    [
+      19121891,
+      24801759
+    ]
+  ],
+  "gather_result": [
+    [
+      24801760
+    ],
+    [
+      24801760
+    ]
+  ],
+  "exact_selection_result": [
+    24801759,
+    24801759
+  ],
+  "cpu_numerical_fallback": false,
+  "certifier_uses_affected_MPS_gather": false
+}

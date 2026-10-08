@@ -1,0 +1,44 @@
+# Assistant instructions, tool settings, chat exports and session metadata
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.codex/
+.chatgpt/
+.gpt/
+.claude/
+.gemini/
+*[Cc][Oo][Dd][Ee][Xx]*
+*[Gg][Pp][Tt]*
+prompts/
+conversations/
+sessions/
+chat_history*
+conversation_history*
+tool_outputs/
+
+# Credentials and machine configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+.venv/
+venv/
+
+# Generated runtime output and Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+review_output/
+/source/triangle_square_research/proof_n3/
+tmp/
+*.log
+
+# Large numerical frontiers live in the separate archival proof volume
+/source/triangle_square_research/certified_spatial/run_*/
+/source/triangle_square_research/certified_spatial/compact_*/
+/source/triangle_square_research/certified_spatial/minimum_rotation_*/
+*.sparsebundle/
+*.dmg
+*.zip

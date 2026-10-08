@@ -1,0 +1,97 @@
+{
+  "known_pattern": {
+    "requirement_id": 11823248,
+    "wall_type_ids": [
+      4,
+      12,
+      21
+    ],
+    "canonical_poses": [
+      [
+        -0.33095061779022217,
+        -0.33095061779022217,
+        -1.832595705986023
+      ],
+      [
+        0.45052382349967957,
+        -0.1268264651298523,
+        -0.5235985517501831
+      ],
+      [
+        -0.1268264651298523,
+        0.45052382349967957,
+        1.0471980571746826
+      ]
+    ],
+    "pair_mode_codes": [
+      15,
+      15,
+      9
+    ],
+    "present_in_angular_survivors": true
+  },
+  "max_equality_residual_float32": 2.384185791015625e-07,
+  "fixed_side_numeric_jacobian_rank": 8,
+  "fixed_side_geometric_variables": 9,
+  "variable_side_numeric_jacobian_rank": 9,
+  "variable_side_geometric_variables": 10,
+  "fixed_side_gram_spectrum": [
+    3.802014347797922e-08,
+    0.3204672038555145,
+    0.32495301961898804,
+    0.9382253289222717,
+    0.9997944831848145,
+    1.3332595825195312,
+    3.4097506999969482,
+    4.325916767120361,
+    4.679010391235352
+  ],
+  "variable_side_gram_spectrum": [
+    3.802013992526554e-08,
+    0.3204672038555145,
+    0.32379209995269775,
+    0.7126450538635254,
+    0.9997944235801697,
+    0.9998056888580322,
+    1.3332595825195312,
+    3.4711434841156006,
+    4.679010391235352,
+    4.991457939147949
+  ],
+  "rank_precision": "GPU float32 diagnostic, relative eigenvalue threshold 1e-5; not an exact rigidity certificate",
+  "singular_fixed_side_motion": "The corner triangle can rotate to first order while maintaining its corner vertex; the shared-vertex contact fails at second order.",
+  "family_certificate": {
+    "identity_verified": true,
+    "independent_MPS_identity_verified": true,
+    "variables": {
+      "u": "s-sqrt(3)/2",
+      "q": "sqrt(6)/4",
+      "t": "tan(delta/2)"
+    },
+    "contact_equation": "u*(1-t^2)-q*(1+t^2)=0",
+    "certificate_identity": "(u-q)*(1-t^2)-2*q*t^2 = u*(1-t^2)-q*(1+t^2)",
+    "coefficient_order": [
+      "u",
+      "q",
+      "u*t^2",
+      "q*t^2"
+    ],
+    "coefficients": [
+      1,
+      -1,
+      -1,
+      -1
+    ],
+    "domain": [
+      "q>0",
+      "1-t^2>0"
+    ],
+    "consequence": "s-(sqrt(3)/2+sqrt(6)/4)=2*q*t^2/(1-t^2)>=0",
+    "equality": "t=0",
+    "conditional_family": "Corner vertex at southwest corner; other two triangles have bases on top and right walls and share an inward vertex; the corner triangle opposite edge passes through that shared vertex.",
+    "geometry_to_family_equation": "sqrt(2)*(s-h)*cos(delta)=h, with delta the corner-edge outward normal angle relative to 45 degrees",
+    "global_completeness_proved": false,
+    "note": "Exact coefficient identity and positivity certificate for this family. Does not exclude other contact families."
+  },
+  "global_optimality_proved": false
+}

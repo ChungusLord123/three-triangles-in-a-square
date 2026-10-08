@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "contact_cases_checked": 16918102,
+  "all_survivor_memberships_checked": true,
+  "all_large_profile_quotients_exactly_reconstructed": true,
+  "independent_method": "MPS Boolean transitive closure and angular relation join",
+  "cpu_numerical_fallback": false,
+  "elapsed_seconds": 189.1596203749068,
+  "checker_sha256": "18e500da8208b736876ffb1321edde9d4370e8de6683d20a43f084d975276a69"
+}

@@ -1,0 +1,210 @@
+Three unit equilateral triangles in a square: coverage argument
+
+Claimed minimum: s0 = sqrt(3)/2 + sqrt(6)/4.
+This is the mathematical argument accompanying the replayable computation.
+It is a proof candidate, not an externally reviewed or proof-assistant-checked
+theorem. The saved numerical receipts deliberately retain their original
+scope; they do not independently verify every implication in this argument.
+
+1. Existence of a minimum and a complete finite contact description
+
+The explicit construction in geometric_semantics_certificate.json has three
+unit triangles in [0,s0]^2 with disjoint interiors. Restricting the container
+side to at most s0 gives bounded centroid coordinates and compact rotation
+circles. Containment and disjoint interiors are closed conditions: for two
+convex polygons, disjoint interiors mean that some edge-normal separating
+axis has nonnegative minimum gap. There are finitely many such axes.
+Therefore a minimum is attained. Area gives 16*s^4 >= 27, hence s>1.
+
+A triangle of diameter one cannot touch opposite walls when s>1. Its touched
+walls are consequently at most two adjacent walls. A wall supports either a
+vertex or a full edge. Each vertex-wall incidence is one of 12 bits, so the
+4096 wall masks cover every possible wall contact set. Vertex support cones
+have endpoints at multiples of 30 degrees. Two positive-area triangles cannot
+share a square corner: their two 60-degree interior sectors cannot be disjoint
+inside a 90-degree corner.
+
+For a triangle pair with disjoint interiors, the boundary intersection is
+empty, a point, or a segment. Point contact is vertex-vertex or a vertex in the
+relative interior of an edge. An intersection of the relative interiors of
+two nonparallel edges would give overlapping interiors. Segment contact is
+positive-length edge-edge overlap, including coincident complete edges.
+There are therefore exactly the 37 encoded pair possibilities. Endpoint and
+zero-length degeneracies use vertex-vertex modes. No rigidity or rank test
+discards a family. Cyclic labels, all six piece permutations and square D4
+symmetry preserve coverage. Reflections reverse vertex order.
+
+The angular tests are necessary, not sufficient. Their closed cone bounds
+and angular differences have integer endpoints in units of 30 degrees.
+Choose unwrapped circular branches of any real angular solution. Flooring
+each unwrapped angle preserves integer difference bounds and equalities.
+Thus failure of the finite angular test rules out that real solution. The
+independent MPS relation-join checker verifies every one of the 16,918,102
+catalogue decisions against the Metal triple-loop enumeration.
+
+2. Necessary conditions on the FULL contact profile of an attained minimum
+
+Contacts define connected components of triangles. Components can be moved
+rigidly. If no component spans opposite walls, translate each component
+inward while shrinking the square. Its recorded wall contacts are preserved;
+untouched walls and other components have strictly positive gaps. Such a
+profile cannot be a minimum.
+
+A proper vertex-edge contact or edge-edge overlap cannot use an edge on the
+container wall: both triangles would have interior on the same side there.
+Two unit bases cannot share a wall of length s<2, since their base intervals
+must overlap in positive length and cause interior overlap.
+
+If a component spans only one opposite-wall pair and has just one labelled
+support vertex on each determining wall, a small rigid rotation decreases
+its span. Locally that span is A*cos(theta)+B*sin(theta), and its second
+derivative is minus the positive span. A nonzero first derivative supplies
+a decreasing direction; a zero first derivative is a strict local maximum.
+The other dimension has slack. Thus some component of a minimum spans both
+wall pairs, or has multiple labelled supports on a determining wall.
+
+The stronger support-coordinate rotation test uses the one-sided derivatives
+max(y_left)-min(y_right) and min(y_left)-max(y_right), with the analogous
+vertical expressions. If a determining derivative is zero, all active span
+differences with that derivative still have negative second derivative.
+The saved interval tests remove a region only when a decreasing direction
+is certified for every relevant component and binding dimension.
+
+These are reductions of FULL active profiles, not infeasibility claims about
+requirement prefixes. A boundary solution with extra contacts is represented
+by its actual full profile elsewhere in the catalogue. This distinction is
+also essential for all strict-descent certificates below.
+
+3. Continuous positions, orientations, contractors and branch coverage
+
+The two rational rotation charts are R(theta) and -R(theta), with
+t in [-1,1], cos(theta)=(1-t^2)/(1+t^2), sin(theta)=2t/(1+t^2).
+Their union covers every orientation, including the overlapping chart seams.
+All eight chart combinations are supplied for each retained profile.
+Centroids lie inside the square, so the initial coordinate ranges cover every
+contained triangle. The side range starts at a conservative area lower bound.
+
+The body vertices are (1/2,-h/3),(0,2h/3),(-1/2,-h/3), where h=sqrt(3)/2.
+The exact polynomial audit checks unit edges, unit edge/radial normals, all
+edge support values, tangent endpoint values and the rotation formulas.
+The opposite-vertex-to-edge distance is h. Vertex-edge and edge-edge plane
+equalities therefore use respectively h and 2h. Tangential contact ranges,
+unit edge distances, support-cone inequalities and minimum projection width
+are necessary conditions. General disjoint interiors are enforced by the
+six possible edge-normal separating axes for each triangle pair.
+
+All interval operations round outward. Products are evaluated at the four
+interval corners, squares include zero when required, and division is used
+only when the denominator excludes zero. Operand limits prevent signed
+overflow. Uncertainty sets the unsafe flag and retains the original box.
+For the two fixed radical constants, the integer square-root binary-search
+path has trial values at most 21*Q/8 after its initial steps; their squares
+are less than 2^63 for Q=2^30. The saved radical bounds are independently
+checked. Q30 product and division caps respectively bound square operands
+below sqrt(INT64_MAX) and numerator operands below INT64_MAX/Q.
+
+An equality contractor intersects with an outward enclosure of an expression
+equal to the contracted coordinate. For a plane inequality with positive
+normal component, the lower endpoint of the quotient is a necessary lower
+coordinate bound; a negative component instead supplies the quotient's upper
+endpoint as a necessary upper bound. Sequential intersection preserves every
+solution. Support-height, containment and side contractors have the same
+property. The coordinate derivative identities checked by the polynomial
+audit justify monotonic rotation endpoint bounds; known vector radii provide
+additional necessary coordinate bounds.
+
+Every bisection has overlapping children whose union equals its parent.
+Precision/depth limits retain unresolved regions rather than deleting them.
+The fresh legacy replay reconstructs every initial root and all 14,484 saved
+records, checks every branch input against its actual parent queue, reproduces
+all contractions/reasons/dimensions, rechecks every physical exclusion with
+separate interval arithmetic, checks every split on MPS, and reconstructs the
+exact unprocessed frontier, including interrupted passes. Later journals
+reconstruct each intermediate array and compare its saved byte commitment.
+The Q24-to-Q30 lift reconsiders every active and terminal region. Narrow side
+shells start at the floor of the preceding completed rational bound, so their
+domains overlap rather than leaving a gap.
+
+4. Strict improvement velocities, including flexible and singular families
+
+A velocity consists of centroid translations and angular velocities for the
+three triangles, together with square-side derivative -1. Each recorded wall
+must have a strictly decreasing violation derivative. Each contact has a
+chosen supporting axis with a strictly increasing separation-gap derivative.
+The contact derivative is independently expanded and checked by the exact
+polynomial audit. Vertex-vertex axes may use an incident edge or the radial
+support normal. Vertex-edge tangent coefficients lie in [-1/2,1/2]. For an
+overlapping edge pair, the relevant owner coefficients lie in [-3/2,3/2],
+and the other endpoint coefficients are exactly -1/2 and 1/2.
+
+Noncontact vertices on a chosen supporting axis have strictly positive
+initial gaps, checked over the entire interval box. Other unrecorded contacts
+and walls have strict slack in the full profile. A sufficiently small positive
+time therefore gives a feasible packing in a smaller square. These motions
+cannot certify a full minimum profile. Witnesses are dyadic rationals with
+denominator 1024; acceptance uses exact integer interval inequalities and is
+independently replayed. Floating solvers propose witnesses only. Their failure
+never excludes a region. No nonsingularity, isolated-root or rigidity premise
+is needed.
+
+5. Exact lower bound for the surviving analytic family
+
+After square symmetry, suppose one triangle has vertex A=(0,0), and the other
+two have complete unit bases on the right and top walls. Write u=s-h, and
+their inward apices P=(u,z1), T=(z2,u), with zi in [1/2,s-1/2]. The shell lies
+strictly within (sqrt(3)+1)/2 < s < sqrt(3). Consequently each apex lies
+strictly in the common 30-to-60-degree cone of every triangle supported at A.
+Nonoverlap with the corner triangle forces
+A1=nx*u+ny*z1-h >= 0 and A2=nx*z2+ny*u-h >= 0,
+where the opposite-edge unit normal satisfies nx,ny>0 and nx^2+ny^2=1.
+
+For the right/top pair, the right and top wall axes cannot separate their
+contained unit bases. The other two outward sloping axes each have a strictly
+negative gap at one of the opposite triangle's wall-base endpoints, using
+u<h<1 and the base-containment ranges. Thus a separating axis must be one of
+the two facing sloping edges. Its apex inequality implies
+C=(1+k)*u-z1-k*z2 >= 0 for k=sqrt(3) or 1/sqrt(3).
+
+The independently checked polynomial identity is
+nx*A1 + k*ny*A2 + nx*ny*C = (nx+k*ny)*(u*(nx+ny)-h).
+All weights and the right prefactor are positive, so u*(nx+ny)>=h.
+Since the unit normal has nx+ny<=sqrt(2), this gives s>=h+h/sqrt(2)=s0.
+The independent polynomial audit also checks the equivalent sum-of-squares
+identity. No pair-contact equality or restriction to a rigid configuration
+is assumed. The entire family, including its equality case and sliding or
+singular limits, is covered. The seed's wall-profile classification and all
+remaining continuous roots are independently checked on MPS.
+
+6. Exhaustive disposition and exact feasible upper bound
+
+The numerical part excludes every minimum profile through s=1.4783977.
+The exact-boundary shell begins at its conservative dyadic floor and ends
+at a dyadic upper enclosure of s0. It therefore includes every remaining
+possible smaller minimum. Its 8,257 analytically covered profiles have the
+lower bound s0. All other profiles and all their descendants have either
+physical infeasibility or a verified non-minimum certificate. The final
+active and precision-limit frontiers are both empty.
+
+Let q=sqrt(6)/4, a=sqrt(2)/4, S=h+q. The feasible construction is
+corner: (0,0), (q+a,q-a), (q-a,q+a);
+right: (q,q), (S,q-1/2), (S,q+1/2);
+top: (q,q), (q+1/2,S), (q-1/2,S).
+The independent exact coefficient checks establish all unit edges. Positive
+squared margins establish h>1/2, q>1/2, h>a and q>a, so every vertex is in
+the square. The plane x+y=2q separates the corner triangle from both others.
+The plane with normal (-1/2,h) through (q,q) separates the right and top
+triangles: its vertex gaps are (0,-h,0) and (0,1/2,1). Interiors are disjoint.
+Thus this construction attains s0, matching the exhaustive lower-bound claim.
+
+Independent-review boundary
+
+The GPU arithmetic, catalogue, root coverage, tree ancestry, witnesses,
+polynomial identities and byte commitments have executable verification.
+The logical implications above and their correspondence to the common
+geometric contractor implementation are a written source review. They have
+not been checked by an external mathematician or a formal proof assistant.
+In particular, a replay with different interval arithmetic is not a second
+independently implemented positional geometric model. The certificate must
+be presented as a complete computer-assisted proof candidate with this trust
+boundary, rather than silently promoting the old conditional receipts into
+an externally established theorem.

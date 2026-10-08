@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "fixed_point_bits": 30,
+  "primitive_cases": 12000,
+  "independent_MPS_integer_inequalities_passed": true,
+  "reference_arithmetic_matched": true,
+  "feasible_singular_and_rotated_root_boxes_preserved": 10,
+  "radical_bounds_verified": true,
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false,
+  "constants": [
+    1859775393,
+    1859775394,
+    2630119584,
+    2630119585,
+    1223801032,
+    1587417442,
+    1587417443,
+    1587417592,
+    1587417594,
+    0
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "cases_checked": 16918102,
+  "all_survivor_memberships_checked": true,
+  "reason_histogram": [
+    2499977,
+    3612,
+    855091,
+    1298,
+    558889,
+    0,
+    576368,
+    0,
+    9092818,
+    5466,
+    865008,
+    9018,
+    527740,
+    5014,
+    1888103,
+    29700
+  ],
+  "independent_algorithm": "PyTorch MPS Boolean graph closure and angular relation join",
+  "cpu_numerical_fallback": false,
+  "elapsed_seconds": 188.88944850023836,
+  "scope": "Verifies finite/angular enumeration. Does not certify positional roots or global optimality."
+}

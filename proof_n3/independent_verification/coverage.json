@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "wall_subsets_checked": 4096,
+  "wall_types": 25,
+  "wall_triple_representatives": 334,
+  "contact_cases_checked": 16918102,
+  "angular_survivors": 2499977,
+  "spatial_profiles": 1253321,
+  "rotation_critical_profiles": 958599,
+  "endpoint_grid_degrees": 15,
+  "all_angular_spatial_and_critical_memberships_match": true,
+  "arbitrary_real_angles_argument": "Flooring unwrapped real angular variables preserves integer difference bounds and equalities. The endpoint grid is an angular necessity test; actual rotations remain continuous in two complete rational charts.",
+  "degenerate_contacts_argument": "Disjoint convex polygon boundaries meet in no point, one point, or a segment; VV, proper VE and positive EE cover these, including limiting cases.",
+  "flexible_singular_profiles_removed_by_rank": false,
+  "imports_original_catalogue_geometry": false,
+  "cpu_numerical_fallback": false,
+  "source_sha256": "33662957d313bc665613a77150f1b4d350275609c9a8cc5a964c8563996197bd",
+  "elapsed_seconds": 227.6223377082497
+}

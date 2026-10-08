@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "rotation_reduction_reconstructed": true,
+  "minimum_regions_removed": 254027,
+  "saved_splits_checked": 0,
+  "frontier_boxes": 125937,
+  "frontier_profiles": 26,
+  "shared_geometric_model_independently_verified": false,
+  "cpu_numerical_fallback": false,
+  "global_optimality_proved": false
+}

@@ -1,0 +1,1151 @@
+{
+  "parent_checkpoint": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/checkpoint.json",
+  "parent_checkpoint_sha256": "4dad0bcc78b683f91bff5f81e5b4cbc916606f113ec117c9591c7b8958fad6fc",
+  "frontier": [
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014443.npy",
+      "sha256": "7f5029bc215c75db4edcc8f2c62b3df86148c5eca5eb426c861fbde2e8af5784"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014444.npy",
+      "sha256": "29f865e4b20fa92226e5a35a36b108a81213a1fb01726c1e96b1ae40ff24e2be"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014445.npy",
+      "sha256": "f09869b4b19745de8d8d1e352d0623ec0900ebcab4a69db8ca68395acd5e5bbf"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014446.npy",
+      "sha256": "af74172adf4ef1f48e4562cb16b78f13cc40ce052ac6c18f81394924133b89da"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014447.npy",
+      "sha256": "a9de391dfd04157cb6ec4f341694f9dc5c9dcde169682faacc047bbe4cf50a52"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014448.npy",
+      "sha256": "828d6e29a31501ac5dd70e3ee8af152331738a8ccaf1c3e17e0b4e366a8433b4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014449.npy",
+      "sha256": "2426b3e11a81a6526d069e0a8deb2893771b669ff9a03d8a3938c9abb689abde"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014450.npy",
+      "sha256": "47b02f9dac8c722ac103a1be28a94b76462b3f1b833b0616d76615c4eb6bd543"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014451.npy",
+      "sha256": "ff03e80f14c8865dee0d990fed0ff194dd85591d5ff4bd61b4f5c5ec18e6d345"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014452.npy",
+      "sha256": "b1342d0432621d507adb3671c7878b8775b46e74e0d105cf127a7c3958dfb76f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014453.npy",
+      "sha256": "031df33456b09115d03920bcf8358c01c7a481426c0823ccaefd40a8103e090c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014454.npy",
+      "sha256": "0c44e8410358e1626b8e3587325027837fca8d0a79919fec37b9d6d818721ac4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014455.npy",
+      "sha256": "b26e6bdd37e57f5b1eac56c1343548b023aa7c610d63825216cd64d1bb664a64"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014456.npy",
+      "sha256": "1b24249ba4af1620c46c062e5ee33c45f2ff8e89c57ba754511b9e4f4c4f3929"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014457.npy",
+      "sha256": "643e08facbff7bf89d24f2a552d8f3c2c929e740fa6fc5b7037d06bef65bdfaf"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014458.npy",
+      "sha256": "0b357a3f8ffa411a86c7e855987efd3954cfc1aec0768bea6cb851cd372c131d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014459.npy",
+      "sha256": "0a551f6189524b4d15daaa8fcd988952d238a7abce0d3ea9338b133ddcd2f7c8"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014460.npy",
+      "sha256": "470553fd3fd62c33d0b6cbb7057b743e97e222f7a344338f06eab107465092ff"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014461.npy",
+      "sha256": "7c2e7bfc403e0aae11c42b96ea28e3df62a5fe01feaa2098d6114371e9d2da9f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014462.npy",
+      "sha256": "a877eef6ce228e13d1c731ab0a2b4692f6e9658ccc33669c172126d18e00d0a3"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014463.npy",
+      "sha256": "f5187098fdfdcc6ecf6a8e32ce555f54cba0fd1b651dedea4ce9aa8cb122106a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014464.npy",
+      "sha256": "ba7bf77e72b301da613dfb8c99cedba324240e1f4bb980516ec545cd3c803540"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014465.npy",
+      "sha256": "a0689292eb49f9866a43535bd6c760b483aadfdeede1dcf1b98ce5b3c70d8126"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014466.npy",
+      "sha256": "6e1d00ece3ca86c0ae1493f991103a57cfd821c1403cfa5524afb0d86fe3e1c8"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014467.npy",
+      "sha256": "68c320ceaae29107a37d88340c98a8f73d62cf0fa7b7477dddbc7fd752501fdc"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014468.npy",
+      "sha256": "0242535111442b312ab39e71a4ea2a687fdd1c9b157e6e6842abff6d3750e51a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014469.npy",
+      "sha256": "1fc6664e038bbc6e157316075dab11a9015753d551dd0c26a4c2a6f8dc86bd33"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014470.npy",
+      "sha256": "e11f6905fe057ec29c22892a4c558772d2179d7166c7ca6a2812e308bbff6ea0"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014471.npy",
+      "sha256": "31aa05dfd222db51d2791680456583bc782a8f6dd9e20a2029b75b4606700460"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014472.npy",
+      "sha256": "526e44c4b62529707625f2f1b9bdabc97b2eb68ba7d78e22ad6d591b7e4534ec"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014473.npy",
+      "sha256": "147c9093109f1838bb76411a10f687d1e68cc01847a18b4cdb237797c9962b62"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014474.npy",
+      "sha256": "033cfcab5a47d2fb5392f7ac41db562035baec0d0ca9b15a80c2580d14298ee1"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014475.npy",
+      "sha256": "f7478347d4de09e4154db1a3b6fc683a89944061c54f0b0b329d9f623135c2b1"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014476.npy",
+      "sha256": "ad1024abdcdca71b25cbe0a19681c888198ea150e4c4c557fb51d168f726b3f4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014477.npy",
+      "sha256": "76aa0b8736aa40f43ff7af76112d08d65eddc58af3893363718ee999fb9833bd"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014478.npy",
+      "sha256": "af494cb31c35df91e6564d516423c5b9d03ddef38f57f121c78544331346798c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014479.npy",
+      "sha256": "8e9c74054d97551adf5db40186f40064a0f190c2e79bd0c5dfb086fe1c2b2317"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014480.npy",
+      "sha256": "d06e7ee31a85ceff69eaa04358609a893995dd032f6c780a19d6a7eaea840f16"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014481.npy",
+      "sha256": "d3190d0deb37e4e931dc3fc8bbd132f7798d8f532fbb234187c34dcd59251376"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014482.npy",
+      "sha256": "127f3789c4b2b64a727b029bc42ce2773bed3afd6c85ab05289f8c1eca0ac403"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014483.npy",
+      "sha256": "f7b3196816933e735ee823b6586029553770a6c5205b271c75aa6f5028f3d68e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014484.npy",
+      "sha256": "a0e8d544cf32d7eee2e5151f21023d9c7a753e6c82aafc2f3541d4412a6053d5"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014197.npy",
+      "sha256": "a8f587c98c2c084f5d159f75e55e6c5912b40d47d1da2dc3e9278f2c802c97a4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014198.npy",
+      "sha256": "b2c28d1411adc95ab7a9ca4ae35d5606c5d61bad8be2f640d92ad43f2a366d01"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014199.npy",
+      "sha256": "e2ffbd851225d51dfd3f8b60a93a355c4aa39a33aaf1639e821fd613919e0fac"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014200.npy",
+      "sha256": "d9f9190ca078fa1e0fba3c9a6e3643ed0b1ca8b4a8915e0c1507a054139b61bb"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014201.npy",
+      "sha256": "925142a7be5b17717e9375e864b3e71f36f27152b9caf08ec84029917fdc9eb2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014202.npy",
+      "sha256": "ced0c777a3440e7f1d2cbf0aa85a118e4b8d49044af0a1c22a4f53b5c442a316"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014203.npy",
+      "sha256": "5268d465a1bdb7674d90f671c0cda78f24728159ad4fe86035dcccb0102a9fd9"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014204.npy",
+      "sha256": "c91e928bfd30f247845a8741000501d7c82cca0ee1f3832006f2129ca34fb50e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014205.npy",
+      "sha256": "9d8294d2dc936aba3afbf6f08ecc9154e5e46873c0ee9c3f09cbd67207119f15"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014206.npy",
+      "sha256": "8a63374e1346a117cc199fde28e07f7037540b37a52800833adc8545d6adae17"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014207.npy",
+      "sha256": "f1a27ca0a7dc28a804127b246c216841f92536688099b651c49c4692dea76cf4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014208.npy",
+      "sha256": "a0b1e95d158ddf7ea43c1775accd5a227b9cbf216097ee8c655d725b49369248"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014209.npy",
+      "sha256": "04f66fd7fdaace4dfe6fe934f73dbc0eab36b53fa770a530feb8b52715a0f111"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014210.npy",
+      "sha256": "3345485a0281e7d43355504eef3bffead1973c3900d45897261eaf37d270765a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014211.npy",
+      "sha256": "1c98645c5ee9d8879feaaed6a5a148f3c303c1a5fd999015f67d368601de2efc"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014212.npy",
+      "sha256": "19c1f8c5bfaac9c546467aa699017dced240b517db21d3f7172720263d1c5c5f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014213.npy",
+      "sha256": "d8616074f52b1f6f8c959391dcede4767384534d7ec05b8c1513e24cd23fcb6a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014214.npy",
+      "sha256": "a19e3670badacf641079ef5b6e165b720d406aa28f99da83825e1da2d73bf63c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014215.npy",
+      "sha256": "5c4b85945cdb6906bab501a27311e4bd79219e6ac01337e8f5722910eb95838d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014216.npy",
+      "sha256": "a079880891cc9dd3268b3a8e2df68c1500f82868727651ead8b8229f3b9fd37b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014217.npy",
+      "sha256": "6e662e07fcf1c4682d30945750f871c3f199f448b17608c0bfbc10b84ab7ee47"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014218.npy",
+      "sha256": "b04a0fdd868551844f19ceb91929fc4b8a5fd879d764230b6df8afb4c267eb3a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014219.npy",
+      "sha256": "bcc228cddb3cb14f6a8344a8ca95046b41bc2e853c400944ae069b66c2c50c31"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014220.npy",
+      "sha256": "bc1d1fe8d9623f5c01d8d479668e2e9121a98a60ce7a44de1905c2c3586fd05d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014221.npy",
+      "sha256": "09eae749af392cf21a50b434fe9cfd8c152cdc9746bf9430eb37569959bf521f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014222.npy",
+      "sha256": "6942df865d74736c44c17cae8dc8156e4026262375f6aa189250cf0b70875f48"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014223.npy",
+      "sha256": "ac742a0e916a71134a384bea72d9899185890b92074e6bd440388082c67c8a99"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014224.npy",
+      "sha256": "d01d04936dd27ea0a51a29dc940d016d5575400d86c0d81370ac1482960e1ab2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014225.npy",
+      "sha256": "c03a58a65152252550e54d59a61c56c735a546102daa7452b90ac9111ee19135"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014226.npy",
+      "sha256": "7dbc590adebc5b966f18eaec21284f5b5efbe58eac541a3719bcaed66e4caa38"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014227.npy",
+      "sha256": "7fbbbf32d63bb8e3990e0c68e1e3defb4e8c97d18b876d322a638b24d6a8d423"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014228.npy",
+      "sha256": "3d41daef9f953e778b98b814747ab4d5caa918cf664fdd4f59398229ad906688"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014229.npy",
+      "sha256": "81554e1707a035f739f29e9c9a9457537563ef927e0c1e37182a90c68a82f80c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014230.npy",
+      "sha256": "4cee9e5a5c8fb7f6316f052b35b3ad8a86cd821a7390e3ddbbceb02bf1a59244"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014231.npy",
+      "sha256": "982c6143ecc29b1f241384ad456d275a9e75a1176b54cabb88e62803cc20332e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014232.npy",
+      "sha256": "aa4672a126aca6025535bda1d4b5ab4eb72776373edaceca32a74f49e21cc99c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014233.npy",
+      "sha256": "47532d8cd1d5b60fbb1576bcc1a692b6d053932e656f6a837ba938d4d2d69fbc"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014234.npy",
+      "sha256": "d602e30fd6482278f58f7200f2be4f4559170f1e8cc92f4ad236512aa313a3d6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014235.npy",
+      "sha256": "b82f55bc3b40f337f93cd3e7691d12bf3f87e1e069f9d9a6dc12eb8237040fdf"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014236.npy",
+      "sha256": "e3ed75e88e8e8deef2d53641240790cf2bd9b31b9996c2fe43842a71f389ac98"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014237.npy",
+      "sha256": "c3701e73c3568c51d061f7b552d880b50fa2897efe2a0d0f7ee41f13895629a6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014238.npy",
+      "sha256": "80375269453665fd1c6a60df4f440d553b4e8677a35553d25351363108202caf"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014239.npy",
+      "sha256": "916e085a41fbb2271786029a1df07b9e78a46dfc0d2352ef96d753befe82198a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014240.npy",
+      "sha256": "4e822974b91ae13628792c77b60dcf7f4777e40d7b34c291dbe9402924f8480c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014241.npy",
+      "sha256": "0ec882bbe2acf315fe867350e7de58ddbdea46ef6492f5a6b8d8c88738475d35"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014242.npy",
+      "sha256": "d229662c85576b6baf8af019d02b8d4a61c66edc4d8413ed2bca7b6a0c840586"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014243.npy",
+      "sha256": "460a1f2168d8b3b42566156af17aa3c5fe533ba67e90e9f123c66907b901706f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014244.npy",
+      "sha256": "644d2770d37328dbc3afeb87a42c59ed4828372015947332ccc4e2b997fbf4a2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014245.npy",
+      "sha256": "13ef8a2dd54c2b5e18a030e96f4fea285149e3de8c172656301d55fed31709a5"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014246.npy",
+      "sha256": "c204ace08111dc67f3845a5350c0c36be88ad17f4bb624ac906f0b02059dd7e6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014247.npy",
+      "sha256": "41bf8b490c21b8fe6495ce32f912e9fcd2c64a1d46775325fad12a58dbb89951"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014248.npy",
+      "sha256": "b194b7acf6e714fc5e64027b5a5beda78238c508a8f2bba7270c877cfa4c723f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014249.npy",
+      "sha256": "3dd99c6ecfcf7a629b273801bcbff21ea00cce60a781c50aa44958398e29685a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014250.npy",
+      "sha256": "fdc00ba1d0326fb0602e55453123d78f9e08ffbd8661e04e5c0667e21c29fb49"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014251.npy",
+      "sha256": "a5b6061c9a7f08df11e15629d9e691138dbb1a2ce0e5756408290aae910a56bf"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014252.npy",
+      "sha256": "cacce981707682e2a7c53105d04a953acb186cc3a8be597730bbe54faa4f3b8c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014253.npy",
+      "sha256": "13eed705f89460467a64fb407bbdc85f9b2b693b8abfe88941af3b9b194cd27a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014254.npy",
+      "sha256": "f04a1e592cbafafcd66f9a5569db1aa638bc4bd36882c075e9e3fa72a661e74d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014255.npy",
+      "sha256": "3b2a656082014d7b749413d41e95bdc327b264a98a19be9d98089fa1580887ca"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014256.npy",
+      "sha256": "64443a0582617863e9e02e3ab3e17ceafdf53471d6cb3ca44151d58c28c29fce"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014257.npy",
+      "sha256": "6d7670373e1b7c25dbcddf30070237aab4b49527b3e121bed9073fdc69959642"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014258.npy",
+      "sha256": "6bc88224ac5c996015a0b55fe607db7295404150e66ac42f88440b0bbe043c40"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014259.npy",
+      "sha256": "781af57666843b7cb3732c09f57528bd0366075870d7d89716f084bec873e998"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014260.npy",
+      "sha256": "e49ba5a6e60d9ba0d690ccf569147cc6345f0670d4c66d918e21c9fd025f172e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014261.npy",
+      "sha256": "c9c41f43d5b49c8f9df6a350d2fe4051dae895e8c3000de748d483201bd9c33c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014262.npy",
+      "sha256": "6faa6808007e52459bb87d044d497eab40f90f773fe2fd1368cb85525be5af26"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014263.npy",
+      "sha256": "ef65308325290a1ef707b8634b45541bd6bf4b59894335e76111b4983d9daf5a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014264.npy",
+      "sha256": "85a77d97c68f611836006a12f9d31ccd234fcb25d4c53cbb00dbe5ca7b13398d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014265.npy",
+      "sha256": "35a552a6fe720dbaaf15403c2b2f390f00fa2c7af39df14f8c6288714782f6d3"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014266.npy",
+      "sha256": "de5949cb631563816d8348d586e6f5a4453dea2b59694291922a6b5bda07268f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014267.npy",
+      "sha256": "1ab96440b5eb8494c80f0e6241edd4995ec53d71b552ed4942f78d842ac1bb72"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014268.npy",
+      "sha256": "b0993764c96385b22e66e593e016d4730aacaeada3cf00cfcf6f138c57d92de4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014269.npy",
+      "sha256": "bd6d879078d466d969f7e7416b5438cc4f4a9366cd4d33c68a513f383b42c4fa"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014270.npy",
+      "sha256": "643ccec79e9228ce51a91ba89afacbcedefdfc8c6100f872cd152def937c461d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014271.npy",
+      "sha256": "30cd5b54a591d33bcb1406ec5ffebc1d84d9375f1d217dbb3ce5404fa21d8e3b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014272.npy",
+      "sha256": "2fa1077179630e6599051408d4b65c344bbfb13085e74be957ea50fd4ad22f8a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014273.npy",
+      "sha256": "954decce3e988bc222d1ab1a534ad29e4e303f5408a847f1f300c60cb863202e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014274.npy",
+      "sha256": "f05ca9feb8ce7cd85693df259a2e75f36b319f93e1ae419b0ab8985e3168d909"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014275.npy",
+      "sha256": "63c7bb8d7a5a257141b2de86199b0084e143056504092e28a93d2f48b7d276e1"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014276.npy",
+      "sha256": "51c2c447651ebbb5d0f18c7bcca0255a548a7568f9329968ab12185cf713e333"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014277.npy",
+      "sha256": "ff771ff8943aa2216543b9547c4f993568000794cdee9febb9d61d2327357553"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014278.npy",
+      "sha256": "a5b1ebae38c81e3e82e537e069f770dfc8b37374fd0cfbbe22c311971b459a33"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014279.npy",
+      "sha256": "c2e7ae7d39bb3afb13a3e18be4e0747556511efcc24e85495ec14ea58c440c6a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014280.npy",
+      "sha256": "e2f2704c846f492937dccc7ecd60057d1f2257258300713b05a0145c1a7d256e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014281.npy",
+      "sha256": "41b337e2dffd8e8be79088a985cfea9847065236439712e570920d8ff9b99ef9"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014282.npy",
+      "sha256": "c7ba49c2ece22bed00063ffe7d60757a817d44267b8822c7084cacdbbecf4549"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014283.npy",
+      "sha256": "a0aa17caaabbb22fe3a61d3b5629371659b08d8181cb34368acc8d2d7e2147d6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014284.npy",
+      "sha256": "d64da495bfe9b9b5404c831d75384a48dec0b85b707ed8145141be59984b90c4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014285.npy",
+      "sha256": "54936ad45c94264ee9d6960b8e605fabde6ebceb5cf04609cc3196ebff00c607"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014286.npy",
+      "sha256": "5741334272eaad04766d3b29fdc6aeb8a085194c7abcff16644051757bc2fbee"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014287.npy",
+      "sha256": "1123ae38d1013e930900af602815ebb37ac8b82e5b631d31b8f3c03f055d7029"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014288.npy",
+      "sha256": "f895ac5a8c57d8af4834001d3a2614f209edd192c8b601216fe99025e1f2cede"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014289.npy",
+      "sha256": "4ccd296c09b6821c97c7d5260b914ec193087f7365576522bf464bf42726fe5f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014290.npy",
+      "sha256": "d3032ac2de74400621e3b64cf1143b08d5d597f85d03051c02175f15befd8d26"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014291.npy",
+      "sha256": "3939b9d40b7d67155b1e657d2714121d8d418620b4eecdadd7323876fb3ffe78"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014292.npy",
+      "sha256": "0b0770950ab5f1e8082a17dd2108bc9967f7dfa6f6eb6561e0d51f4345fd3b3d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014293.npy",
+      "sha256": "95d6e424204ff2b48d7201935d6f355163ddb368b6ca07bdbed525bb11f3e050"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014294.npy",
+      "sha256": "056352940abead7b163a9121ec8ca5507e098a2209f6d0d09ff383a4c8ee9bfe"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014295.npy",
+      "sha256": "af6c91f50c83e67eb2549fe5d825c82b455f5bbdd0d5588e9dbab10570f7e8b6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014296.npy",
+      "sha256": "2b43bc88699543b841aca0c0973981e8f1874051e2d5bc3d0ffe7f0ea483fd65"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014297.npy",
+      "sha256": "5bc569654ddbebda8f98df9b03c3a8228773524188135ae022a392a2f5b61c78"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014298.npy",
+      "sha256": "a583bd56d5e9b828fb32f160a47fe95f782d93a431ecbfe3798fe4d6107df489"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014299.npy",
+      "sha256": "24f0b5dd07226c06df80164b764fd62e7a3017b018b9e110123bf4ec2162694f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014300.npy",
+      "sha256": "a05bdcd029f7f7ba6586c76a851a72a7ac09dc329d5f7df9fdf051ae9984aa82"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014301.npy",
+      "sha256": "149bf45158e28522878546b856816199e8bf68c3e77dceabde8a71891d42e28b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014302.npy",
+      "sha256": "62a34799bed8efe2a6dcb24b083b1a8bb93de06e640c8330ce302cfa3779c9e2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014303.npy",
+      "sha256": "c8e9b73e60b73624168a4d2fbc1d357ed8945aa0827f9a5a4289645d53b385ca"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014304.npy",
+      "sha256": "80e02d8d82cad219b44232721a1a2c89d918c9731e5a721778685a3da940326e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014305.npy",
+      "sha256": "cfb1731fbe6ac72e87b6d4b29b6099f9755a84c4e3ea8962f145288f0203c490"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014306.npy",
+      "sha256": "f051d5608dc5db865540a6fbd39f4fd55ceab50fc79e24934f4f50351f34884b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014307.npy",
+      "sha256": "532c711ab7e3bcfa148043783ad30e625c81c49c6e543a45ce59358213aca541"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014308.npy",
+      "sha256": "df75808d5c68d9b75abf33b3f618c91b1d4d52b0904675da698c49b591cd87cc"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014309.npy",
+      "sha256": "a98d16a814e208fb03aac89694fe68f6619113d747489958d27356ef85a3f20b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014310.npy",
+      "sha256": "f4d694eab17c32a1ed85881db09391d88eccab578ba2ac7247de0f08f6794bcf"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014311.npy",
+      "sha256": "94d482091b4f5501d8c35f1a6d24f2865887e83faa4434a09f2ab5272f840787"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014312.npy",
+      "sha256": "26592ec3f7ad264aa879f6c12087f18c78c55988477786aecf86141d622f5651"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014313.npy",
+      "sha256": "f39b5387abea04c5e015a5aa8e41f4b790f2a0be502c476be2cddd19f120c49d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014314.npy",
+      "sha256": "688cd43eac8400405ca809396facc35f0a86404be98541d092afc35a2cd52b3d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014315.npy",
+      "sha256": "eb1174d413a41b26aacb18e0a4dedb497f1c6c9a76a46b25c41a4c8591f65e15"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014316.npy",
+      "sha256": "5d9077557726b22c312938b7f78bce34982426662d2ade818d1d2965fec36cf1"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014317.npy",
+      "sha256": "c82fa2f5f7207b19c7097c848c94e5a141329a98f158f627dd17dfde24102fe4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014318.npy",
+      "sha256": "a3fbfdf95c43acae076b7c21905882cc9577ecc51d6a5c6f638af71b5534ab10"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014319.npy",
+      "sha256": "0e1853ec2e278630b9be62cea4fb9525b0126a1afb381eaa4c3df8f02da689f4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014320.npy",
+      "sha256": "70ffa2cad46880a6468a1c8af856d14581eaeec2f065ae71dc18d2f5e348a33c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014321.npy",
+      "sha256": "c133e54d64b053a7d3921edb54205829c4e11957ee0d95f39f1d3d0c6925d52d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014322.npy",
+      "sha256": "98ca1855879252ab47e3d500fee9216976915dba4e1aea925eb90f33f47a0618"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014323.npy",
+      "sha256": "795af3290be05209cf931f7a292ebf08f7669102ec1609e5f98e76a940510d6e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014324.npy",
+      "sha256": "1156f8b3102850b800c7a7cfe5cd4c841d281c778b846e9676af9477a6f980f0"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014325.npy",
+      "sha256": "d96faf7aaa73ba60775f1443e65a3e6e71f7ac5d14546f1692d27a21183a77eb"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014326.npy",
+      "sha256": "7506cd05d92940fae411022b185ea5bde404803d30907e80d8d2ea3d9d6feb06"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014327.npy",
+      "sha256": "069b7a7e972f0a6b682eca6f72fef6a8a1110c649b95d0f48d33316bee999261"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014328.npy",
+      "sha256": "27b946f787e11c1aedb7ed7744871a4beb6a93291729706ed056ee06e65c05aa"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014329.npy",
+      "sha256": "9e18951e4b7e2a2474a037d7c8ee7099b0bf2414a8dceae662248fc16bdcce7d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014330.npy",
+      "sha256": "eddf064f36569c2b2d826240c8d5851800d913e61265c0b4b637f8b463513038"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014331.npy",
+      "sha256": "8c9c73241ed12a4ab104991753fa2759be1c3718e3554a7e0671c1aad0ebd34e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014332.npy",
+      "sha256": "1cea80b14a7515c7344007b73b849a171ca60bd81ea82761bd73f70f0b70b5d2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014333.npy",
+      "sha256": "6451041158bde443a8080193403e4da37deec9a84ca6dc2d4f292c14c59e8157"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014334.npy",
+      "sha256": "149a9aa7727b89395f4750504578f800f8d1f25b0ee0879d383bfde578521193"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014335.npy",
+      "sha256": "37444591acc1fab5d1b4047100260790a9183c9c55a8da57e9f5c668c41c1b3c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014336.npy",
+      "sha256": "e75b603d1fb9d77e810c9987109a7af91ecf58da1037d8b473a37e2d15c293ed"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014337.npy",
+      "sha256": "d71bf6bdd098a217f3617a30ae357bd1043d7e1b240114b740c8bbdca758fb0b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014338.npy",
+      "sha256": "a927e318ea04b1c35b4afc963051d001b8b4cd0ccbf1ae23c5ff42c8524b9dcb"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014339.npy",
+      "sha256": "786fbac44b661989e76fb9e7b88b81200988cd8813fc30a3cfedc554214983aa"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014340.npy",
+      "sha256": "e7e27da18b98fe0924e80bdd0dddfaa106cc6f02e319d72174394a27ddc8f5ab"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014342.npy",
+      "sha256": "8c2b1b913c42977f19fac12436509d54dd1998abae6c942fa64ef6de1236f355"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014343.npy",
+      "sha256": "9c0e68109d35de842e176cab323eafd175703254d681f679f53d1ef6079b8237"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014344.npy",
+      "sha256": "a7ee4da36d91b26bd869cbe96166c05671e7672b8b747e3ab8f2159c95a54602"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014345.npy",
+      "sha256": "528811945ee3a1cf927abf4b159d7e55da9b51f8ac979bb2f126d53ce6d6e8f5"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014346.npy",
+      "sha256": "5d45ab1e6a42b43e280ef295578775db71cc92f493d3273a288f2a0df610a822"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014347.npy",
+      "sha256": "2a23df17e7c68c581a754f260c824db414c8dd582877090798a99ec4376b2aeb"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014348.npy",
+      "sha256": "8402a185ba2f6c969835c25fd2ffe9c4ea68c757295a9a0420724c9cab975441"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014349.npy",
+      "sha256": "3bd2ff5ea9b0a7f2467dc8ae680f0fe398702b88510fa4c4cf5ca5148ec53b42"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014350.npy",
+      "sha256": "2f57dadc81aeec3ddb2eda63a13d808c76b03a461e1974946529b497acef14f4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014351.npy",
+      "sha256": "61a88fda416aa901e382de5e177d2fad053142e9263d231f80841e51ea658ae0"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014352.npy",
+      "sha256": "008f9124106af1d0e5f1ffd31866d25d47e86c0ac0de3172628c376a67e58aab"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014353.npy",
+      "sha256": "2e1785814638b22f1e1d24834752cf5f3bfeebb8fb1b98caea3307694c34e644"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014354.npy",
+      "sha256": "deff9d82e4fe8ffe0fb1e8339853207d2972cbd850db3f8c136e16a68a1d1707"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014355.npy",
+      "sha256": "186f06f73560c4e7f510a87add486426384caa0476c1a4cb12e4b7a0f1c3aee9"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014356.npy",
+      "sha256": "b353196d040d393c5e21b3d05b9968d421c14e86ea94fd9a6ad69f014837bf30"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014357.npy",
+      "sha256": "77e42ec8a980a852ecfece56c0f87117768c45daf4ff348c63319d5e84535efc"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014358.npy",
+      "sha256": "e079bcb7dfac507a2d178a748476b60bb8584dd04aeedb6c6e3e7815cd378852"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014359.npy",
+      "sha256": "3dfe68a3b13dd67222b23667a5677a38d3898a1c9892cd59b35f5b66b1e13400"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014360.npy",
+      "sha256": "2b81711bcdb52bc448711b02cddbd32c7653ad7ae8993f0aef7ecf93a88b7370"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014361.npy",
+      "sha256": "0368167961283555be904f66d12daeaf325f81380a18c23a4b6aa2a30acfdbe4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014362.npy",
+      "sha256": "9dc1435e2b420bd80ea6d20d4a0bc0620cb699b243d09b1a1469a5b42bf32347"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014363.npy",
+      "sha256": "c3fa2cf81c74acc405132f8bc0d67310037f4b741b64a2335fa90ef5faa2651f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014364.npy",
+      "sha256": "f2ed387162d97f49915839a9321bae98abfa596e8cfdc1778c05229206ad6fe4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014365.npy",
+      "sha256": "9c73942068f276a62804deb4ae8c42c4ced59684440e1b88fbff8cf00947f07b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014366.npy",
+      "sha256": "a47cf6694cb63931bc45ff4f8ae257d5d6709a677fe74891957b164ced0febad"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014367.npy",
+      "sha256": "ba22a9ab6d8cbc494a54899e8313e3e57aa9180c2eb86370cb5764bf0feec0f6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014368.npy",
+      "sha256": "7fd687e2d6ce6b50e185ca0414698e18768e7deda6b30d48563e715b9f24890e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014369.npy",
+      "sha256": "d9419f45eb42a6259676861d1bed5e78e2bc6dc49078ddd54dfa7f5b2233ef09"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014370.npy",
+      "sha256": "9868106ad0f4c940b72298cc0e49b31793be17896f181a561460826f9dd5ac49"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014371.npy",
+      "sha256": "1a2792ebba7c67b767ff705cf05fba4ef4d335483e7c6c1b3f1bd672e70aef13"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014372.npy",
+      "sha256": "38401c6a117209af6dcf101b6d016bf6ded64e8eec4802bcda7c0f2e1e4feabb"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014373.npy",
+      "sha256": "b6e77cdfb0ad92a247dda20bd62924eff954075b38c5ebfbedd0285ef1d5a129"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014374.npy",
+      "sha256": "fc7449545bce0c821c35affe4bcd34166ba32d0ce436dab137ca9d3a845f2ebf"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014375.npy",
+      "sha256": "3f769e4e3c33d082ec97c40b0710ac1dd683b149a4290c4148c113031b8f72c2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014376.npy",
+      "sha256": "7da2d85298325430cb9ffcaab67bb85750886cad8c2edd30f83745606a9b6a60"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014377.npy",
+      "sha256": "1ad5a46edcdd06c644d7fb505286d45a1ffa586822faa7b12e6957fdab32ad96"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014379.npy",
+      "sha256": "7564858830029da8c35a762ed2380f5c7b6d05fa511ec0aa8bec6ce02c99f6e4"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014380.npy",
+      "sha256": "d6f630edf041eb079647d6ff3d258b3d37c87b48c7fddb75032cfd7a64da6864"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014381.npy",
+      "sha256": "f2acccb9a9d6a8176b52724b428a05a3d38f3e926e9f451d209eb6605441e0a5"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014382.npy",
+      "sha256": "aa2628a47a90ec105516d744a3258cf60a6263c21ac5c8299fa862859060f7d6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014383.npy",
+      "sha256": "26bb4d2350f178ceb104ca1032d2ac35e6cc7172f86decdb908e88b84e2076dc"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014384.npy",
+      "sha256": "2159be5c8c049e859a2c0c972217696b5e0d5479da282f59f7c544fde0d1177f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014385.npy",
+      "sha256": "c81284e2bafb8817f8ffe6fcfcfbb260971643bc8e9d684b978644b4b1930e40"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014386.npy",
+      "sha256": "30ebb10bd66379d892b820fdfed9e01f8bbeec47e3a4bd330e78e146ce893797"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014387.npy",
+      "sha256": "f2959053ebd2e28c40f775b4e59ef2ab83ace2ef9f288c6ea0f0d192034868b6"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014388.npy",
+      "sha256": "18485527dc7f5525b4ff0a3b1d53ed44ee1c8268c0e41e4b2cde370d8af6c3a7"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014389.npy",
+      "sha256": "b94dca162618e6635cd8921765fe54323e4902eedf63dfd8a3d507fd39f6fb10"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014390.npy",
+      "sha256": "a6365fd9f2ac4a468d11187d1b81f0ff153413025600a03099175df81f00fe45"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014391.npy",
+      "sha256": "84e96c25f3ad40ac929751bc4f2436ff210ab1ccb8fbabf909ed4c64377b4ec9"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014392.npy",
+      "sha256": "8489e7c0370f64a119713d8fa672cc5b48f0d8b75193f27dd3d82a05b139081d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014393.npy",
+      "sha256": "9c5123649679728cd5f3dcb5e2a1d50f726780b1a1a447bd667c723c3d5f7300"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014394.npy",
+      "sha256": "53914ca6b0d7373f7b5c3db38d7c29c463cfcfeb509f9246ff7ca1e312e31886"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014395.npy",
+      "sha256": "d1826a0c8313c521bc607ecb69b0fd2a8517d1df69028574593eb341da20a309"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014396.npy",
+      "sha256": "4daf991a7eb4512f4b341530310bd8127613046c4b4763a68cbe4e0f7907937a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014397.npy",
+      "sha256": "fdab19efa9ea2cd77ca4ea47f9d1150588252f8aeb8da8aa04ab91d698b0eb68"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014398.npy",
+      "sha256": "3d0662d5fe9e8580923c619176348832f699457f3a2acffa00fea6fe85314f93"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014399.npy",
+      "sha256": "c1dd035f8a2e0d6c599214908718d18ccf5c13df4473a97a0f747a36e90cf504"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014400.npy",
+      "sha256": "c43945a85c2268ce609646bc5411444c69a0dcba158c11d1cdd65953ecbd7d2c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014401.npy",
+      "sha256": "57b3d47195ef1451c28cd677c7e7674ce1049321c7b68358092d0faac0d1ea35"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014402.npy",
+      "sha256": "97484c3231993bdeedb9bede68749e09c3f88d00b85d3751e1f294a14f0b899d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014403.npy",
+      "sha256": "15890e587bac21c85f2649547e6fcd6170a5626b7f65aa735729e7cfd6ecdb13"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014404.npy",
+      "sha256": "d477eb2b70ec50b5224378507a551c7414e030961004ffb4b762ed9e9056304e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014405.npy",
+      "sha256": "cc48e7b7d1ebbbff9c4480ccc081bc9cbb48fb0438b4dfdf97dc4d1f61161f4c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014406.npy",
+      "sha256": "f9b2abe5a327b9da46799f8bbeeb5fca1b503466353ec88ffc454d1c9f8a1f7d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014407.npy",
+      "sha256": "2a3e9f8ce61cdb33857ae8202906dce01831278020508b16f4dd1d1c4c9b20e9"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014408.npy",
+      "sha256": "87e2e9c0393557d9cd1f0966bb01847cf818471be288745256ef4ab619ce3678"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014409.npy",
+      "sha256": "8e11606b67a4a5ab8cbb3250e4670e9996918a4f27daac58ffc0cfcf38691a57"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014410.npy",
+      "sha256": "3f5455bc4c5b82e9e7e6a67ea6e43c2989af63bdc33cbc5b560243b9a32cb2b9"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014411.npy",
+      "sha256": "477d3a12da7f97a41a70aed2ce3dd61570da1e93609c472f4bfbeec14f7e04bd"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014412.npy",
+      "sha256": "7d7f2ca2e3b47cba176efe17b6d7ce0c2e80fa304ba2c5ef09caa3bb0ff68352"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014413.npy",
+      "sha256": "815e6265b24d9c4505a076dbf01f9fd42f0545a1682ad12f3ffae7246d1d4363"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014414.npy",
+      "sha256": "6ab9c34c88bb4a4378323ee47b5323988b8bd7aeb90953ca6ded8b0884e2c0a1"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014415.npy",
+      "sha256": "a6f44b145496b731a48213ab83687ef142cf9c2aa6bc90e2978f8086b4e46f8b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014416.npy",
+      "sha256": "239699cb6497d369f3d14e6ad66568852c2dcdacfcd81b0b2e6a37a4bd566286"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014417.npy",
+      "sha256": "1ae717e5ee97fa9a776f6a0da5166f786e05867fdeb4156b7d91662d13808c38"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014418.npy",
+      "sha256": "8af3ba0feba0af295f0f881abc31d4a5d39dd2a087c3659d381f98b2af2d4cb2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014419.npy",
+      "sha256": "b8d80ccdd1ed5ff63dcb167f15fee9dbf244d8658bc32d2a236869522b2977ac"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014420.npy",
+      "sha256": "266a2a1fa0546b7b53830e207f6a0efdd553f7c113aa05f278b33bd8f441d129"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014421.npy",
+      "sha256": "61690cf9409ccbd922aeac2b8f96ee40a363802e7b2409061b01b47bad804f94"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014422.npy",
+      "sha256": "5f3fa862d2560b307c8f00049d59915f315485fb90cc3062a0807f9bfdbdfd54"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014423.npy",
+      "sha256": "7ca22999e356ebdf7135c3287a60098e522258b34869d2507c556940b033bed7"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014424.npy",
+      "sha256": "0f38e24374860fa280b9f7dd50b8f5fd160eccd630c27af896ebfba5233f4d22"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014425.npy",
+      "sha256": "e7eb7d8ea3920c77d9aed18733084e27a58408f9b1adf2506fac47c707e3675e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014426.npy",
+      "sha256": "ced7a2538ca8880b005b944758c0b9ab0446d7b34e42ad39a119f3599f66a849"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014427.npy",
+      "sha256": "d4bda4678ad72511673df1434c0db52ffb92c644f9d715e0931ba2b1909d5d9f"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014428.npy",
+      "sha256": "3fdd52dd61058396482d8a37e027bca1eb962284b93131a22a36e0b84510b0f2"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014429.npy",
+      "sha256": "da173d5a836b7411983724332b57f092e9af42bb7272802f3807b61a8f105c6e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014430.npy",
+      "sha256": "442df13700fa2f8157cf4dd8b61c4228a88247547929d21883c8d866e3e68d6a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014431.npy",
+      "sha256": "c9a6eef1a23d5314c3c2f394ec5f0b72dd702a077444e4fcb925117e64eefa7e"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014432.npy",
+      "sha256": "eb4aa3145f552d265a92c4fc40476411d54e478e96df4015907861097a85c95b"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014433.npy",
+      "sha256": "191ac140dae3866664c045cd45c96577089c9e003a13f72b21aaf2ed7d35016a"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014434.npy",
+      "sha256": "4519636af04408984e7a65ed3feefdb3f26a63763146f307be92bfe49eb7a82d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014435.npy",
+      "sha256": "d533029e33c881de46c0168c54019ba29f998a719f9e1dc7f158170630d7a1dd"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014436.npy",
+      "sha256": "ebe5afc821e6b39266cf75c4822b204a517bb4df2f9728eabca7dfc1440df6c0"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014437.npy",
+      "sha256": "851f2f11dd0895c9fcad194acfed423ab13d258a4924504ddd74f26bc7967762"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014438.npy",
+      "sha256": "79af43925fefb2009769495c8c395125e1410d061894ee9b443aabb731b3cb32"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014439.npy",
+      "sha256": "d669ca765d30d05ed4f855be158064ccf7cad389524e55fca6261e15a1306b6c"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014440.npy",
+      "sha256": "c94060ec8c0b0ed07ce076a15633769a8152cabe923ddc1bfbcdbd05b9a5fd9d"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014441.npy",
+      "sha256": "b13e859d57efda17e86dcf51864399f27ac553fc9327f1929b7101682033c037"
+    },
+    {
+      "path": "/Users/oz/.codex/.chatgpt-projects/g-p-6ac2f349d5788191a39a453f68c8f2cd/triangle_square_research/certified_spatial/run_14783_10000_a8bd59da/children_00014442.npy",
+      "sha256": "79ff02dafda5d62a8d73d99cc42b98f97e7cd5048568fbbcce43eb7b530f0593"
+    }
+  ],
+  "terminal": []
+}
